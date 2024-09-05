@@ -1,0 +1,12 @@
+| Estado        | Deporte           | Oro | Plata | Bronce | Total |
+|---------------|-------------------|-----|-------|--------|-------|
+| Ciudad de México | Atletismo      | 10  | 7     | 5      | 22    |
+| Jalisco       | Natación           | 12  | 8     | 6      | 26    |
+| Nuevo León    | Gimnasia           | 8   | 5     | 3      | 16    |
+| Estado de México | Taekwondo       | 6   | 9     | 4      | 19    |
+| Baja California | Ciclismo         | 5   | 7     | 2      | 14    |
+| Querétaro     | Judo               | 7   | 4     | 5      | 16    |
+| Yucatán       | Esgrima            | 3   | 2     | 4      | 9     |
+| Puebla        | Levantamiento de pesas | 6   | 4     | 3      | 13    |
+| Sonora        | Boxeo              | 4   | 3     | 2      | 9     |
+| Chihuahua     | Lucha libre        | 5   | 5     | 5      | 15    |
