@@ -1,0 +1,1001 @@
+Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Game 0,Switch,2011,RPG,Electronic Arts,1.31,0.95,1.35,0.12,3.73
+Game 1,Mobile,2011,Adventure,Ubisoft,1.73,2.08,1.02,0.78,5.61
+Game 2,Xbox One,2003,Puzzle,Square Enix,4.59,0.82,1.72,0.91,8.04
+Game 3,Mobile,2015,Strategy,Square Enix,1.46,0.58,1.73,0.39,4.16
+Game 4,Mobile,2003,Sports,Electronic Arts,2.36,0.56,0.03,0.63,3.5799999999999996
+Game 5,PS4,2004,Strategy,Indie,4.45,1.03,1.56,0.44,7.480000000000001
+Game 6,Xbox One,2004,Sports,Activision,3.54,1.3,0.93,0.44,6.21
+Game 7,Xbox One,2007,Puzzle,Activision,0.32,2.49,1.98,0.32,5.11
+Game 8,Xbox One,2009,RPG,Ubisoft,0.75,0.37,0.97,0.76,2.8499999999999996
+Game 9,Mobile,2016,Strategy,Ubisoft,0.05,2.21,1.97,0.94,5.17
+Game 10,Switch,2008,Simulation,Indie,3.16,1.6,1.51,0.94,7.209999999999999
+Game 11,Xbox One,2021,Sports,Ubisoft,2.24,0.87,0.5,0.18,3.7900000000000005
+Game 12,Mobile,2018,RPG,Activision,0.68,1.48,1.08,0.88,4.12
+Game 13,PS4,2013,Adventure,Nintendo,4.79,0.91,1.98,0.74,8.42
+Game 14,Switch,2007,Sports,Square Enix,2.65,1.79,1.72,0.26,6.419999999999999
+Game 15,PS4,2008,Puzzle,Nintendo,1.22,1.31,0.2,0.08,2.8100000000000005
+Game 16,Switch,2021,Adventure,Nintendo,2.51,0.5,1.42,0.28,4.71
+Game 17,Mobile,2010,Adventure,Activision,3.4,0.36,0.7,0.91,5.37
+Game 18,PC,2000,Action,Nintendo,0.39,1.64,0.02,0.64,2.69
+Game 19,Switch,2013,Strategy,Indie,1.38,2.71,0.81,0.72,5.62
+Game 20,PS4,2004,Sports,Electronic Arts,4.04,1.04,0.48,0.26,5.82
+Game 21,Mobile,2020,Adventure,Ubisoft,2.3,2.2,1.64,0.72,6.859999999999999
+Game 22,Switch,2013,Action,Electronic Arts,2.74,1.98,0.68,0.04,5.44
+Game 23,PC,2003,Puzzle,Square Enix,2.17,2.8,1.66,0.38,7.01
+Game 24,PC,2021,RPG,Ubisoft,0.23,2.46,0.01,0.63,3.3299999999999996
+Game 25,Xbox One,2000,Simulation,Nintendo,0.84,1.7,0.62,0.15,3.31
+Game 26,Xbox One,2021,Simulation,Square Enix,2.23,1.97,0.49,0.82,5.510000000000001
+Game 27,PS4,2018,Sports,Ubisoft,1.05,2.7,0.47,0.24,4.46
+Game 28,Switch,2007,Adventure,Indie,0.26,1.2,0.15,0.66,2.27
+Game 29,Switch,2014,Simulation,Indie,4.22,0.99,0.38,0.41,6.0
+Game 30,Xbox One,2020,Strategy,Indie,4.91,0.04,1.12,0.6,6.67
+Game 31,Switch,2014,Simulation,Indie,3.97,2.48,0.59,0.12,7.16
+Game 32,Switch,2008,Simulation,Nintendo,4.27,2.4,0.84,0.03,7.54
+Game 33,PC,2020,Simulation,Electronic Arts,1.22,0.32,0.76,0.91,3.21
+Game 34,Xbox One,2008,Action,Ubisoft,4.8,1.73,1.75,0.28,8.559999999999999
+Game 35,Mobile,2009,Adventure,Nintendo,0.99,1.4,1.81,0.82,5.02
+Game 36,Xbox One,2019,Strategy,Indie,4.76,0.36,0.99,1.0,7.11
+Game 37,Mobile,2020,Adventure,Electronic Arts,4.97,2.94,0.67,0.22,8.8
+Game 38,PC,2008,Sports,Square Enix,3.56,0.65,0.22,0.27,4.699999999999999
+Game 39,PS4,2002,Sports,Square Enix,4.91,0.21,1.91,0.67,7.7
+Game 40,Switch,2019,Sports,Square Enix,2.85,1.79,0.13,0.97,5.74
+Game 41,PC,2010,Puzzle,Indie,1.31,2.22,0.6,0.92,5.05
+Game 42,Switch,2005,Simulation,Square Enix,2.19,0.11,0.6,0.51,3.41
+Game 43,PS4,2001,Puzzle,Activision,2.97,1.98,0.65,0.8,6.4
+Game 44,PS4,2006,Action,Ubisoft,0.37,1.6,0.34,0.14,2.45
+Game 45,PC,2017,Sports,Ubisoft,3.12,0.32,1.57,0.98,5.99
+Game 46,PS4,2001,Strategy,Indie,4.91,0.53,0.25,0.96,6.65
+Game 47,Mobile,2016,Adventure,Activision,0.96,1.71,1.27,0.17,4.11
+Game 48,PS4,2010,Simulation,Nintendo,3.97,0.9,0.26,0.31,5.4399999999999995
+Game 49,Switch,2011,RPG,Nintendo,4.54,2.82,0.15,0.11,7.62
+Game 50,Switch,2018,Strategy,Square Enix,4.72,2.46,1.82,0.28,9.28
+Game 51,Switch,2021,Simulation,Electronic Arts,4.8,2.95,0.39,0.82,8.96
+Game 52,Switch,2006,Puzzle,Nintendo,2.61,0.79,1.64,0.38,5.42
+Game 53,Mobile,2019,Puzzle,Electronic Arts,4.89,2.91,1.09,0.1,8.99
+Game 54,Xbox One,2005,Strategy,Ubisoft,3.79,1.3,0.16,0.35,5.6
+Game 55,PC,2020,Puzzle,Electronic Arts,0.82,1.05,1.91,0.98,4.76
+Game 56,Switch,2000,Sports,Ubisoft,2.39,0.16,0.5,0.63,3.68
+Game 57,PS4,2016,Action,Activision,3.59,0.17,1.72,0.42,5.8999999999999995
+Game 58,Switch,2010,Adventure,Activision,1.24,2.08,0.35,0.17,3.8400000000000003
+Game 59,PS4,2021,Action,Indie,3.21,1.38,1.71,0.99,7.29
+Game 60,PS4,2017,Simulation,Indie,3.34,0.69,0.04,0.82,4.89
+Game 61,Switch,2020,Adventure,Square Enix,0.82,1.85,1.03,0.29,3.99
+Game 62,Mobile,2016,Adventure,Nintendo,2.83,0.77,1.54,0.08,5.220000000000001
+Game 63,PS4,2006,Action,Square Enix,3.86,1.74,1.87,0.07,7.54
+Game 64,PS4,2016,Strategy,Ubisoft,2.5,1.08,1.82,0.13,5.53
+Game 65,Switch,2019,Adventure,Square Enix,0.07,2.47,1.64,0.58,4.76
+Game 66,PS4,2008,Action,Electronic Arts,0.06,2.46,1.78,0.93,5.2299999999999995
+Game 67,PS4,2016,Adventure,Ubisoft,1.79,1.44,0.41,0.5,4.140000000000001
+Game 68,Switch,2019,RPG,Indie,4.63,1.06,0.58,0.84,7.109999999999999
+Game 69,Switch,2021,Strategy,Activision,1.15,1.09,0.59,0.45,3.2800000000000002
+Game 70,PC,2021,Sports,Indie,3.18,2.42,0.76,0.71,7.069999999999999
+Game 71,Mobile,2007,Adventure,Nintendo,1.12,0.99,0.79,0.73,3.6300000000000003
+Game 72,Mobile,2016,RPG,Ubisoft,1.62,0.64,1.09,0.18,3.5300000000000007
+Game 73,PS4,2006,Sports,Ubisoft,4.24,0.26,0.33,0.37,5.2
+Game 74,Mobile,2000,Sports,Electronic Arts,3.65,1.41,1.39,0.64,7.089999999999999
+Game 75,PS4,2012,Simulation,Nintendo,0.49,1.45,0.34,0.08,2.36
+Game 76,PC,2018,Adventure,Activision,2.15,2.52,0.63,0.37,5.67
+Game 77,Switch,2018,Action,Ubisoft,0.16,0.67,1.01,0.54,2.38
+Game 78,Switch,2016,Adventure,Ubisoft,2.41,1.15,1.59,1.0,6.15
+Game 79,Switch,2012,RPG,Electronic Arts,3.32,2.43,1.48,0.48,7.710000000000001
+Game 80,Mobile,2015,Sports,Square Enix,0.6,2.47,1.29,0.82,5.180000000000001
+Game 81,PC,2007,Adventure,Activision,1.45,1.16,0.32,0.44,3.3699999999999997
+Game 82,Mobile,2018,Action,Indie,2.0,1.38,1.1,0.8,5.28
+Game 83,Mobile,2017,Simulation,Nintendo,4.6,0.92,0.18,0.6,6.299999999999999
+Game 84,PC,2000,Adventure,Ubisoft,4.97,2.8,0.76,0.89,9.42
+Game 85,PC,2013,Strategy,Ubisoft,0.23,0.36,0.83,0.42,1.8399999999999999
+Game 86,PC,2018,Simulation,Indie,3.81,2.8,0.09,0.61,7.31
+Game 87,PC,2014,Action,Activision,1.86,2.05,0.56,0.63,5.1000000000000005
+Game 88,Switch,2017,RPG,Square Enix,1.97,1.6,1.91,0.42,5.9
+Game 89,Xbox One,2001,Sports,Ubisoft,3.77,0.11,1.91,0.15,5.94
+Game 90,Xbox One,2021,Adventure,Activision,4.59,1.43,0.71,0.1,6.829999999999999
+Game 91,PC,2016,Action,Indie,4.76,1.23,0.1,0.03,6.12
+Game 92,Xbox One,2017,Simulation,Electronic Arts,2.89,0.49,0.37,0.87,4.62
+Game 93,Xbox One,2005,Strategy,Square Enix,1.79,1.97,0.79,0.24,4.79
+Game 94,PC,2018,Action,Nintendo,3.94,2.91,1.9,0.22,8.97
+Game 95,Xbox One,2003,Puzzle,Ubisoft,1.26,1.69,0.29,0.74,3.9800000000000004
+Game 96,Mobile,2000,Strategy,Activision,2.82,2.15,1.53,0.33,6.83
+Game 97,PS4,2007,Simulation,Electronic Arts,1.8,0.21,0.23,0.51,2.75
+Game 98,PS4,2006,RPG,Nintendo,3.29,1.26,1.96,0.17,6.68
+Game 99,PC,2002,Sports,Activision,1.21,0.36,0.77,0.96,3.3
+Game 100,Switch,2009,Simulation,Activision,0.97,1.84,1.55,0.85,5.21
+Game 101,PC,2009,RPG,Nintendo,4.59,2.82,0.69,0.87,8.969999999999999
+Game 102,Switch,2018,Adventure,Electronic Arts,0.52,1.99,1.26,0.41,4.18
+Game 103,PS4,2013,Action,Indie,2.53,0.24,0.39,0.76,3.92
+Game 104,PC,2001,Puzzle,Electronic Arts,1.11,1.07,0.3,0.15,2.63
+Game 105,Mobile,2000,Strategy,Square Enix,0.2,1.66,1.88,0.02,3.76
+Game 106,Xbox One,2017,Strategy,Ubisoft,0.19,1.22,1.84,0.03,3.28
+Game 107,Switch,2006,Action,Nintendo,0.88,2.5,1.78,0.59,5.75
+Game 108,Xbox One,2007,Puzzle,Indie,4.34,2.45,1.25,0.46,8.5
+Game 109,Xbox One,2000,Action,Nintendo,1.42,1.84,1.62,0.52,5.4
+Game 110,PC,2002,Adventure,Nintendo,4.75,1.13,0.15,0.02,6.05
+Game 111,Xbox One,2007,RPG,Electronic Arts,2.91,0.77,0.68,0.43,4.79
+Game 112,Mobile,2021,Simulation,Ubisoft,2.19,0.33,0.63,0.72,3.87
+Game 113,Xbox One,2014,Strategy,Square Enix,2.9,1.07,1.27,0.45,5.69
+Game 114,PC,2004,Adventure,Activision,2.59,1.25,0.72,0.73,5.289999999999999
+Game 115,Mobile,2002,RPG,Activision,3.8,2.03,0.31,0.24,6.38
+Game 116,PS4,2018,Adventure,Nintendo,1.42,1.98,1.2,0.82,5.42
+Game 117,Xbox One,2000,Puzzle,Ubisoft,1.77,0.22,1.63,0.59,4.21
+Game 118,PC,2014,Strategy,Indie,4.47,1.19,0.77,0.22,6.6499999999999995
+Game 119,PS4,2007,Simulation,Electronic Arts,4.73,0.55,0.27,0.24,5.790000000000001
+Game 120,PS4,2001,Action,Ubisoft,4.46,0.48,0.4,0.63,5.97
+Game 121,Switch,2002,Action,Ubisoft,2.1,2.48,0.48,0.83,5.890000000000001
+Game 122,Mobile,2013,RPG,Electronic Arts,3.9,0.14,0.61,0.42,5.07
+Game 123,Xbox One,2013,Simulation,Nintendo,2.39,1.26,1.29,0.27,5.210000000000001
+Game 124,PC,2010,Sports,Ubisoft,2.49,0.51,1.21,0.87,5.08
+Game 125,Switch,2015,Puzzle,Activision,1.03,2.64,1.4,0.67,5.74
+Game 126,Mobile,2003,RPG,Electronic Arts,2.96,1.68,0.73,0.45,5.819999999999999
+Game 127,Switch,2019,Sports,Indie,0.94,0.7,1.65,0.49,3.7800000000000002
+Game 128,Mobile,2004,Adventure,Square Enix,1.66,1.51,0.42,0.21,3.8
+Game 129,Mobile,2021,Puzzle,Nintendo,4.28,2.2,0.94,0.63,8.05
+Game 130,Xbox One,2020,Adventure,Electronic Arts,1.04,2.87,1.6,0.37,5.88
+Game 131,Mobile,2013,Simulation,Square Enix,0.37,0.67,0.37,1.0,2.41
+Game 132,Switch,2015,Strategy,Square Enix,0.35,2.66,0.23,0.49,3.7300000000000004
+Game 133,Mobile,2017,Puzzle,Indie,4.7,2.8,1.77,0.49,9.76
+Game 134,Xbox One,2006,Sports,Ubisoft,2.54,2.75,0.69,0.57,6.550000000000001
+Game 135,Xbox One,2009,Strategy,Indie,2.05,1.91,1.37,0.92,6.25
+Game 136,Switch,2006,Action,Ubisoft,4.06,1.89,0.06,0.8,6.809999999999999
+Game 137,PS4,2000,Sports,Ubisoft,4.18,1.22,1.38,0.46,7.239999999999999
+Game 138,PS4,2020,RPG,Electronic Arts,1.67,2.26,0.64,0.72,5.289999999999999
+Game 139,Mobile,2018,Action,Electronic Arts,3.47,1.6,0.12,0.59,5.78
+Game 140,PC,2015,Action,Nintendo,3.86,2.04,1.22,0.5,7.62
+Game 141,Mobile,2018,RPG,Ubisoft,3.28,1.29,0.49,0.2,5.260000000000001
+Game 142,Switch,2003,Puzzle,Square Enix,0.77,2.2,0.78,0.47,4.22
+Game 143,Switch,2017,Action,Activision,4.38,2.48,0.17,0.25,7.279999999999999
+Game 144,Switch,2001,Simulation,Nintendo,2.7,0.45,0.3,0.92,4.37
+Game 145,Switch,2000,Sports,Electronic Arts,1.42,2.5,0.6,0.34,4.859999999999999
+Game 146,Switch,2014,Strategy,Indie,2.13,1.63,0.19,0.95,4.8999999999999995
+Game 147,Xbox One,2004,Action,Nintendo,0.2,2.54,1.82,0.54,5.1000000000000005
+Game 148,PS4,2019,Sports,Nintendo,0.65,1.3,0.02,0.64,2.6100000000000003
+Game 149,Switch,2010,Adventure,Nintendo,3.83,1.14,0.97,0.55,6.489999999999999
+Game 150,PC,2009,Sports,Nintendo,0.01,2.75,0.26,0.14,3.1599999999999997
+Game 151,PC,2001,Strategy,Activision,2.09,0.76,0.62,0.38,3.8499999999999996
+Game 152,PC,2002,Sports,Indie,2.62,2.53,1.85,0.11,7.11
+Game 153,PC,2011,RPG,Indie,0.28,1.46,0.33,0.63,2.6999999999999997
+Game 154,Xbox One,2019,Strategy,Indie,4.87,1.55,1.93,0.45,8.799999999999999
+Game 155,PC,2004,Puzzle,Ubisoft,1.14,0.93,0.42,0.78,3.2699999999999996
+Game 156,Switch,2004,Adventure,Square Enix,1.53,1.72,1.49,0.23,4.970000000000001
+Game 157,Mobile,2005,RPG,Indie,1.53,0.98,1.1,0.17,3.78
+Game 158,PC,2008,Puzzle,Nintendo,1.16,0.13,1.77,0.41,3.47
+Game 159,Xbox One,2001,Sports,Nintendo,0.02,0.82,1.11,0.93,2.8800000000000003
+Game 160,Xbox One,2020,Strategy,Indie,3.65,0.03,1.07,0.71,5.46
+Game 161,PC,2011,Adventure,Indie,4.83,2.94,0.4,0.42,8.59
+Game 162,Mobile,2002,RPG,Nintendo,1.13,2.9,0.34,0.52,4.889999999999999
+Game 163,PC,2019,Puzzle,Ubisoft,3.32,1.19,1.83,0.09,6.43
+Game 164,Xbox One,2021,Puzzle,Electronic Arts,3.71,2.19,0.66,0.98,7.540000000000001
+Game 165,PS4,2011,Adventure,Electronic Arts,4.24,1.04,0.75,0.67,6.7
+Game 166,Switch,2016,Simulation,Indie,2.12,2.02,1.52,0.29,5.95
+Game 167,Xbox One,2009,Sports,Activision,1.52,2.42,0.68,0.59,5.21
+Game 168,PC,2013,Adventure,Indie,1.63,2.84,1.9,0.12,6.489999999999999
+Game 169,Switch,2016,Puzzle,Indie,3.57,1.21,1.48,0.97,7.2299999999999995
+Game 170,PC,2017,Action,Electronic Arts,4.09,2.35,1.2,0.18,7.819999999999999
+Game 171,PC,2018,RPG,Nintendo,0.92,0.81,1.76,0.65,4.140000000000001
+Game 172,PS4,2016,Adventure,Indie,1.86,2.97,0.11,0.25,5.19
+Game 173,Switch,2013,Simulation,Nintendo,4.51,0.09,0.52,0.72,5.839999999999999
+Game 174,Switch,2008,Puzzle,Nintendo,4.04,1.81,0.94,0.78,7.569999999999999
+Game 175,PS4,2007,Sports,Activision,4.92,1.98,0.46,0.68,8.040000000000001
+Game 176,Xbox One,2001,Puzzle,Nintendo,3.77,2.07,1.49,0.62,7.95
+Game 177,PC,2012,Sports,Electronic Arts,1.97,0.37,1.84,0.89,5.069999999999999
+Game 178,Mobile,2006,Adventure,Ubisoft,2.96,2.82,0.85,0.09,6.719999999999999
+Game 179,PC,2008,Sports,Ubisoft,3.31,0.55,0.69,0.34,4.890000000000001
+Game 180,PC,2021,Strategy,Square Enix,0.4,1.87,1.92,0.26,4.449999999999999
+Game 181,Xbox One,2021,Strategy,Indie,2.73,0.68,0.9,0.99,5.300000000000001
+Game 182,PC,2010,Strategy,Electronic Arts,3.55,0.93,0.98,0.4,5.859999999999999
+Game 183,PS4,2013,Simulation,Nintendo,0.84,1.64,0.71,0.74,3.9299999999999997
+Game 184,PS4,2003,Simulation,Ubisoft,3.91,1.26,1.82,0.69,7.68
+Game 185,Switch,2012,Action,Electronic Arts,2.92,0.49,1.14,0.22,4.77
+Game 186,Mobile,2001,Simulation,Ubisoft,4.76,0.52,1.53,0.25,7.06
+Game 187,PC,2004,Adventure,Nintendo,0.22,1.26,1.63,0.29,3.4
+Game 188,PC,2010,Puzzle,Ubisoft,1.33,2.27,0.69,0.42,4.71
+Game 189,Xbox One,2005,Puzzle,Indie,3.01,2.69,0.87,0.24,6.81
+Game 190,PS4,2017,Action,Indie,1.49,0.26,1.7,0.03,3.48
+Game 191,Mobile,2020,Simulation,Square Enix,3.57,1.19,0.73,0.88,6.37
+Game 192,Switch,2009,Sports,Square Enix,3.8,0.31,1.59,0.97,6.669999999999999
+Game 193,PS4,2003,Action,Ubisoft,0.52,0.06,1.88,0.35,2.81
+Game 194,Switch,2008,Sports,Electronic Arts,2.57,1.99,1.25,0.35,6.159999999999999
+Game 195,Xbox One,2005,Sports,Indie,2.55,1.81,1.49,0.02,5.869999999999999
+Game 196,Xbox One,2001,RPG,Electronic Arts,1.85,0.5,1.61,0.68,4.64
+Game 197,PC,2016,Puzzle,Electronic Arts,4.67,0.71,1.69,0.83,7.9
+Game 198,Mobile,2004,Strategy,Ubisoft,4.14,0.08,0.8,0.16,5.18
+Game 199,Switch,2005,Simulation,Electronic Arts,3.49,2.51,0.11,0.17,6.28
+Game 200,PS4,2011,Sports,Indie,3.57,2.92,0.81,0.79,8.09
+Game 201,Xbox One,2020,RPG,Nintendo,2.31,0.42,1.35,0.62,4.7
+Game 202,PC,2009,Puzzle,Square Enix,4.61,0.7,0.91,0.05,6.2700000000000005
+Game 203,PC,2021,Strategy,Nintendo,3.48,2.61,1.5,0.63,8.22
+Game 204,Switch,2020,Sports,Electronic Arts,3.65,2.78,0.72,0.32,7.47
+Game 205,Xbox One,2005,Sports,Nintendo,4.31,1.26,1.27,0.38,7.22
+Game 206,Mobile,2007,Action,Indie,1.38,0.16,0.38,0.77,2.69
+Game 207,Xbox One,2001,Action,Indie,4.04,0.13,1.5,0.81,6.48
+Game 208,Switch,2011,Puzzle,Electronic Arts,0.98,1.73,1.1,0.41,4.22
+Game 209,Switch,2012,Strategy,Ubisoft,1.73,1.18,0.42,0.95,4.28
+Game 210,Xbox One,2020,Sports,Nintendo,1.68,0.1,0.59,0.41,2.7800000000000002
+Game 211,Switch,2006,Puzzle,Ubisoft,4.89,1.75,1.5,0.77,8.91
+Game 212,Xbox One,2009,Puzzle,Ubisoft,4.28,0.04,0.97,0.49,5.78
+Game 213,PS4,2012,Adventure,Activision,3.51,2.36,0.44,0.9,7.21
+Game 214,Xbox One,2016,Simulation,Electronic Arts,3.64,0.93,1.93,0.91,7.41
+Game 215,Xbox One,2020,Action,Square Enix,2.81,0.13,1.43,0.1,4.47
+Game 216,Switch,2013,Strategy,Indie,4.74,1.77,1.91,0.94,9.36
+Game 217,Switch,2001,Sports,Indie,2.49,1.2,0.86,0.83,5.380000000000001
+Game 218,PC,2021,Puzzle,Electronic Arts,1.91,2.92,0.96,0.79,6.58
+Game 219,PC,2010,Sports,Square Enix,0.82,1.64,1.8,0.21,4.47
+Game 220,PS4,2000,Adventure,Indie,3.93,0.83,1.05,0.81,6.619999999999999
+Game 221,PC,2018,Strategy,Electronic Arts,3.67,2.13,1.42,0.85,8.07
+Game 222,Xbox One,2020,Puzzle,Indie,1.93,0.82,0.51,0.3,3.5599999999999996
+Game 223,Switch,2003,Sports,Ubisoft,0.14,2.71,0.9,0.95,4.7
+Game 224,PC,2018,Action,Nintendo,4.2,1.13,0.26,0.06,5.6499999999999995
+Game 225,PC,2020,Simulation,Nintendo,0.07,1.65,0.42,0.16,2.3000000000000003
+Game 226,PS4,2010,Adventure,Indie,3.52,0.16,0.01,0.54,4.23
+Game 227,PS4,2007,Strategy,Activision,4.85,1.28,0.09,0.58,6.8
+Game 228,Xbox One,2010,Adventure,Square Enix,2.19,2.5,1.95,0.65,7.29
+Game 229,Switch,2003,Action,Square Enix,1.18,2.42,0.49,0.03,4.12
+Game 230,PS4,2016,Strategy,Square Enix,3.53,0.68,1.33,0.96,6.5
+Game 231,PC,2006,Adventure,Ubisoft,4.09,0.69,1.68,0.05,6.509999999999999
+Game 232,Switch,2007,RPG,Square Enix,2.74,2.45,1.11,0.15,6.450000000000001
+Game 233,Switch,2002,Action,Nintendo,4.84,2.79,0.31,0.02,7.959999999999999
+Game 234,PC,2021,Action,Ubisoft,0.27,0.3,1.46,0.57,2.6
+Game 235,PS4,2001,Action,Electronic Arts,2.53,1.36,1.2,0.93,6.02
+Game 236,PC,2014,RPG,Square Enix,3.6,1.02,1.47,0.67,6.76
+Game 237,Switch,2021,RPG,Square Enix,4.31,2.61,1.54,0.82,9.280000000000001
+Game 238,Mobile,2021,Sports,Electronic Arts,0.9,0.26,1.95,0.02,3.1300000000000003
+Game 239,Mobile,2004,Puzzle,Square Enix,4.0,0.64,1.15,0.55,6.339999999999999
+Game 240,Xbox One,2000,Simulation,Electronic Arts,2.77,2.26,0.69,0.46,6.179999999999999
+Game 241,PC,2003,Adventure,Ubisoft,1.99,0.16,1.3,0.5,3.95
+Game 242,PC,2014,Sports,Nintendo,0.67,1.48,0.15,0.08,2.38
+Game 243,Xbox One,2019,Adventure,Electronic Arts,4.33,1.33,1.8,0.69,8.15
+Game 244,Xbox One,2018,Simulation,Activision,0.79,1.01,0.25,0.51,2.5599999999999996
+Game 245,Xbox One,2002,Puzzle,Electronic Arts,1.56,1.19,0.66,0.77,4.18
+Game 246,Switch,2019,RPG,Square Enix,1.46,1.59,1.63,0.49,5.17
+Game 247,PC,2010,Puzzle,Ubisoft,4.36,0.49,1.2,0.16,6.210000000000001
+Game 248,Switch,2016,RPG,Indie,3.37,1.72,0.79,0.65,6.53
+Game 249,Xbox One,2012,Simulation,Ubisoft,3.99,2.42,0.95,0.18,7.54
+Game 250,PC,2010,Puzzle,Indie,1.26,2.28,1.71,0.87,6.12
+Game 251,Switch,2001,Sports,Electronic Arts,3.13,0.47,0.69,0.62,4.909999999999999
+Game 252,Switch,2008,Strategy,Nintendo,2.86,0.46,1.74,0.17,5.2299999999999995
+Game 253,Xbox One,2001,Sports,Activision,4.17,0.81,0.19,0.96,6.130000000000001
+Game 254,PC,2020,Adventure,Ubisoft,4.53,1.09,1.56,0.52,7.699999999999999
+Game 255,Xbox One,2008,Sports,Square Enix,0.07,1.23,1.7,0.08,3.08
+Game 256,PC,2008,Simulation,Indie,3.37,2.04,0.37,0.63,6.41
+Game 257,Mobile,2007,Action,Square Enix,0.27,0.18,0.87,0.26,1.58
+Game 258,PS4,2016,Adventure,Nintendo,2.75,0.11,0.34,0.81,4.01
+Game 259,PS4,2000,Puzzle,Indie,1.45,1.18,1.42,0.82,4.87
+Game 260,PS4,2010,Adventure,Ubisoft,1.54,2.09,1.08,0.98,5.6899999999999995
+Game 261,Xbox One,2007,Strategy,Electronic Arts,1.77,0.59,1.27,0.51,4.14
+Game 262,Mobile,2009,RPG,Square Enix,3.11,1.93,0.4,0.46,5.9
+Game 263,PC,2006,Puzzle,Nintendo,1.68,0.79,0.43,0.76,3.66
+Game 264,Switch,2002,Adventure,Ubisoft,3.67,2.66,0.09,0.14,6.56
+Game 265,PC,2002,Puzzle,Ubisoft,2.03,2.69,0.65,0.55,5.92
+Game 266,Switch,2017,Puzzle,Ubisoft,0.35,0.9,1.12,0.55,2.92
+Game 267,PC,2004,Puzzle,Ubisoft,3.92,0.7,1.72,0.1,6.4399999999999995
+Game 268,Mobile,2011,RPG,Indie,1.44,1.24,1.34,0.42,4.4399999999999995
+Game 269,Switch,2011,Simulation,Ubisoft,2.17,0.73,0.88,0.85,4.63
+Game 270,Xbox One,2018,Sports,Square Enix,3.43,2.02,1.91,0.86,8.22
+Game 271,PC,2005,Puzzle,Nintendo,1.67,2.48,1.44,0.11,5.7
+Game 272,PC,2001,Action,Indie,0.29,2.02,1.86,0.1,4.27
+Game 273,Switch,2011,Simulation,Ubisoft,1.88,2.47,1.06,0.27,5.68
+Game 274,Xbox One,2018,Strategy,Activision,4.72,1.2,0.53,0.88,7.33
+Game 275,Xbox One,2004,RPG,Activision,3.21,0.48,0.12,0.14,3.95
+Game 276,Mobile,2011,Adventure,Nintendo,3.36,2.22,1.45,0.72,7.75
+Game 277,Xbox One,2016,RPG,Electronic Arts,3.17,1.09,0.25,0.11,4.62
+Game 278,Xbox One,2016,Adventure,Electronic Arts,1.0,2.02,0.61,0.63,4.26
+Game 279,Xbox One,2009,RPG,Indie,2.1,0.82,1.07,0.36,4.3500000000000005
+Game 280,PS4,2016,Adventure,Indie,3.76,0.25,1.13,0.79,5.93
+Game 281,Mobile,2014,Puzzle,Indie,0.52,2.98,1.21,0.24,4.95
+Game 282,PC,2011,Sports,Electronic Arts,1.4,0.48,0.34,0.64,2.86
+Game 283,Switch,2015,Adventure,Activision,1.39,2.97,0.77,0.24,5.370000000000001
+Game 284,PC,2018,Adventure,Electronic Arts,2.17,2.93,1.24,0.72,7.06
+Game 285,Mobile,2007,Action,Square Enix,4.9,2.38,1.94,0.87,10.09
+Game 286,Switch,2020,Adventure,Ubisoft,0.35,1.98,1.46,0.14,3.93
+Game 287,Mobile,2016,Action,Indie,2.6,1.74,1.85,0.87,7.06
+Game 288,Xbox One,2004,Strategy,Activision,0.91,2.6,1.53,0.6,5.64
+Game 289,Switch,2021,Puzzle,Nintendo,4.85,0.88,1.19,0.14,7.06
+Game 290,Xbox One,2015,Action,Nintendo,0.58,1.41,0.39,0.43,2.81
+Game 291,PC,2005,Sports,Ubisoft,2.02,1.86,1.34,0.17,5.39
+Game 292,PC,2007,Simulation,Activision,3.69,1.24,1.25,0.7,6.88
+Game 293,Switch,2017,Puzzle,Electronic Arts,3.53,1.29,1.21,0.76,6.79
+Game 294,Switch,2011,Action,Electronic Arts,2.12,1.0,0.98,0.11,4.21
+Game 295,Mobile,2014,Puzzle,Square Enix,1.74,1.7,1.06,0.51,5.01
+Game 296,Mobile,2008,Puzzle,Square Enix,1.99,2.55,0.68,0.82,6.04
+Game 297,Xbox One,2012,Puzzle,Electronic Arts,1.33,0.61,1.04,0.94,3.92
+Game 298,Switch,2014,Strategy,Nintendo,1.03,2.8,0.4,0.52,4.75
+Game 299,PC,2009,Sports,Indie,2.42,2.07,1.61,0.95,7.050000000000001
+Game 300,Mobile,2015,RPG,Nintendo,1.35,2.47,0.38,0.54,4.74
+Game 301,Mobile,2006,RPG,Square Enix,1.44,1.67,0.18,0.4,3.69
+Game 302,PC,2016,Action,Ubisoft,3.29,2.34,0.88,0.85,7.359999999999999
+Game 303,Mobile,2020,Puzzle,Electronic Arts,4.84,0.06,1.32,0.5,6.72
+Game 304,Xbox One,2021,Action,Square Enix,3.02,2.46,0.88,0.48,6.84
+Game 305,Switch,2006,Strategy,Square Enix,0.39,0.13,0.56,0.5,1.58
+Game 306,PC,2013,Strategy,Indie,0.39,2.67,1.12,0.85,5.029999999999999
+Game 307,Switch,2014,Adventure,Electronic Arts,4.76,2.98,0.7,0.83,9.27
+Game 308,Mobile,2020,Strategy,Indie,1.49,0.89,1.87,0.41,4.66
+Game 309,Mobile,2006,Adventure,Electronic Arts,0.47,0.64,1.85,0.34,3.3
+Game 310,PC,2008,Sports,Indie,3.0,2.3,1.01,0.5,6.81
+Game 311,Xbox One,2018,Action,Nintendo,3.12,0.77,0.66,0.58,5.13
+Game 312,PS4,2015,Simulation,Ubisoft,3.25,2.6,1.48,0.25,7.58
+Game 313,PC,2007,Sports,Ubisoft,1.34,0.32,0.08,0.8,2.54
+Game 314,PS4,2017,Strategy,Electronic Arts,0.09,0.39,0.95,0.49,1.92
+Game 315,PS4,2017,Sports,Activision,4.83,2.94,0.68,0.34,8.79
+Game 316,Xbox One,2019,Sports,Square Enix,1.26,2.02,1.84,0.12,5.24
+Game 317,PS4,2006,Sports,Square Enix,3.38,2.54,0.03,0.25,6.2
+Game 318,PS4,2002,Strategy,Electronic Arts,3.54,0.98,1.11,0.95,6.58
+Game 319,Xbox One,2017,Simulation,Indie,3.05,2.03,1.48,0.31,6.87
+Game 320,PS4,2009,Puzzle,Activision,1.57,1.79,0.98,0.18,4.52
+Game 321,PS4,2006,Sports,Nintendo,1.36,1.81,0.18,0.47,3.8200000000000003
+Game 322,PS4,2016,Adventure,Indie,2.99,2.05,1.95,0.31,7.3
+Game 323,PC,2013,Strategy,Indie,4.33,1.73,1.04,0.04,7.140000000000001
+Game 324,PC,2002,Sports,Electronic Arts,4.73,1.29,1.23,0.33,7.58
+Game 325,PC,2011,Simulation,Electronic Arts,0.54,0.84,0.48,0.55,2.41
+Game 326,Xbox One,2012,Puzzle,Square Enix,0.78,2.31,0.97,0.56,4.619999999999999
+Game 327,Mobile,2001,Strategy,Electronic Arts,4.72,0.69,0.86,0.36,6.630000000000001
+Game 328,PS4,2002,RPG,Electronic Arts,3.69,2.08,0.16,0.45,6.38
+Game 329,PS4,2004,Puzzle,Electronic Arts,4.42,0.71,0.22,0.97,6.319999999999999
+Game 330,Xbox One,2010,Adventure,Square Enix,1.02,1.88,1.68,0.38,4.96
+Game 331,PS4,2007,Sports,Nintendo,2.94,2.24,0.49,0.27,5.9399999999999995
+Game 332,PC,2011,Simulation,Nintendo,3.51,0.66,0.4,0.25,4.82
+Game 333,Mobile,2006,RPG,Electronic Arts,3.4,0.19,1.01,0.46,5.06
+Game 334,Switch,2014,Simulation,Square Enix,2.05,0.4,1.54,0.76,4.75
+Game 335,PS4,2016,RPG,Nintendo,0.09,1.82,0.13,0.21,2.25
+Game 336,PC,2003,Strategy,Indie,2.92,2.55,1.16,0.71,7.34
+Game 337,Switch,2021,RPG,Nintendo,1.27,0.14,0.25,0.03,1.6900000000000002
+Game 338,Mobile,2012,Adventure,Nintendo,2.26,2.21,0.08,0.42,4.97
+Game 339,Switch,2017,Adventure,Square Enix,4.79,1.03,0.11,0.78,6.710000000000001
+Game 340,PC,2000,Action,Indie,2.0,1.44,1.67,0.35,5.459999999999999
+Game 341,Switch,2015,Adventure,Square Enix,4.2,2.79,0.24,0.57,7.800000000000001
+Game 342,Xbox One,2012,Puzzle,Electronic Arts,0.95,1.0,0.1,0.21,2.26
+Game 343,Switch,2009,RPG,Ubisoft,3.37,1.4,0.88,0.74,6.39
+Game 344,PS4,2011,Adventure,Nintendo,4.89,0.05,1.69,0.06,6.689999999999999
+Game 345,PS4,2001,Strategy,Ubisoft,0.52,0.25,0.53,0.85,2.15
+Game 346,Xbox One,2002,Simulation,Square Enix,0.05,0.78,0.85,0.21,1.8900000000000001
+Game 347,PC,2009,Simulation,Square Enix,2.17,0.09,0.09,0.88,3.2299999999999995
+Game 348,PS4,2001,Action,Square Enix,0.47,1.9,0.9,0.36,3.63
+Game 349,Mobile,2012,Simulation,Ubisoft,3.74,1.28,1.16,0.73,6.91
+Game 350,PS4,2012,RPG,Square Enix,4.57,1.65,1.15,0.33,7.700000000000001
+Game 351,PS4,2017,Action,Electronic Arts,2.18,0.53,0.67,0.91,4.29
+Game 352,PC,2002,RPG,Square Enix,1.3,0.89,0.64,0.14,2.97
+Game 353,Switch,2006,Strategy,Activision,2.18,1.99,0.22,0.19,4.58
+Game 354,PS4,2013,Action,Ubisoft,3.62,2.9,0.74,0.5,7.76
+Game 355,Xbox One,2019,Sports,Activision,0.06,0.16,0.21,0.09,0.52
+Game 356,Switch,2016,Puzzle,Square Enix,2.95,2.67,1.54,0.2,7.36
+Game 357,Mobile,2020,Puzzle,Electronic Arts,3.07,1.73,1.93,0.94,7.67
+Game 358,PC,2011,RPG,Nintendo,3.19,1.7,1.94,0.98,7.8100000000000005
+Game 359,Mobile,2015,Simulation,Indie,1.22,1.51,1.73,0.38,4.84
+Game 360,Switch,2011,Sports,Indie,3.57,0.22,1.21,0.92,5.92
+Game 361,Switch,2014,Action,Square Enix,0.47,0.28,1.4,0.55,2.7
+Game 362,Switch,2009,Sports,Electronic Arts,1.0,1.81,0.58,0.28,3.67
+Game 363,Mobile,2006,Sports,Ubisoft,4.39,1.03,1.27,0.71,7.3999999999999995
+Game 364,Switch,2019,Simulation,Activision,3.7,2.75,0.92,0.66,8.03
+Game 365,Mobile,2004,Action,Activision,0.08,1.23,0.97,0.99,3.2700000000000005
+Game 366,Switch,2000,Strategy,Activision,1.25,0.44,1.52,0.27,3.48
+Game 367,Xbox One,2016,Simulation,Ubisoft,1.08,2.15,0.57,0.68,4.4799999999999995
+Game 368,Switch,2002,Sports,Indie,1.36,0.89,0.64,0.06,2.95
+Game 369,Mobile,2012,Sports,Electronic Arts,1.25,1.58,1.85,0.12,4.8
+Game 370,PS4,2013,Strategy,Ubisoft,0.32,2.1,0.12,0.01,2.55
+Game 371,Switch,2017,Sports,Activision,2.3,2.7,0.98,1.0,6.98
+Game 372,PS4,2003,Sports,Square Enix,3.67,2.38,1.83,0.8,8.68
+Game 373,Xbox One,2017,Sports,Nintendo,3.04,2.03,1.22,0.79,7.08
+Game 374,PC,2004,Puzzle,Ubisoft,3.37,2.04,1.1,0.51,7.02
+Game 375,Xbox One,2015,Simulation,Ubisoft,0.41,2.84,0.51,0.31,4.069999999999999
+Game 376,Switch,2000,Adventure,Electronic Arts,4.76,0.89,0.69,0.16,6.5
+Game 377,PS4,2020,Simulation,Electronic Arts,4.19,0.01,1.71,0.29,6.2
+Game 378,PS4,2013,Strategy,Ubisoft,4.03,0.82,1.12,0.38,6.3500000000000005
+Game 379,Mobile,2014,Sports,Activision,4.12,0.66,1.03,0.76,6.57
+Game 380,PS4,2008,Simulation,Nintendo,4.66,1.99,0.21,0.54,7.4
+Game 381,Mobile,2014,Puzzle,Electronic Arts,2.73,1.9,0.04,0.09,4.76
+Game 382,PC,2016,Strategy,Activision,1.01,1.78,1.93,0.03,4.75
+Game 383,Switch,2003,RPG,Square Enix,3.09,0.06,0.76,0.11,4.0200000000000005
+Game 384,Mobile,2011,Simulation,Electronic Arts,3.72,2.19,1.21,0.42,7.54
+Game 385,PC,2004,RPG,Activision,3.69,0.98,0.17,0.93,5.77
+Game 386,PS4,2004,Sports,Activision,2.61,2.0,1.37,0.64,6.619999999999999
+Game 387,PS4,2010,Puzzle,Nintendo,0.35,1.67,1.87,0.8,4.69
+Game 388,PC,2005,Puzzle,Nintendo,1.86,1.03,1.16,0.47,4.52
+Game 389,PS4,2006,Simulation,Square Enix,4.6,0.41,0.26,0.37,5.64
+Game 390,PC,2013,Strategy,Activision,2.93,0.29,1.17,0.12,4.510000000000001
+Game 391,Mobile,2010,Strategy,Indie,2.7,2.5,1.54,0.88,7.62
+Game 392,Mobile,2012,Puzzle,Activision,1.35,2.76,0.82,0.79,5.72
+Game 393,PC,2001,Strategy,Nintendo,1.85,1.95,1.76,0.18,5.739999999999999
+Game 394,Mobile,2006,Puzzle,Indie,4.48,0.32,1.3,0.52,6.620000000000001
+Game 395,Mobile,2019,Simulation,Electronic Arts,3.34,1.21,1.8,0.49,6.84
+Game 396,Mobile,2003,Adventure,Electronic Arts,3.94,2.19,1.25,0.63,8.01
+Game 397,Xbox One,2007,Puzzle,Ubisoft,2.28,2.34,0.27,0.95,5.839999999999999
+Game 398,Switch,2019,RPG,Nintendo,3.15,0.36,0.63,0.58,4.72
+Game 399,PS4,2021,Strategy,Ubisoft,1.25,0.01,0.41,0.54,2.21
+Game 400,Xbox One,2020,Puzzle,Indie,3.53,2.14,1.82,0.06,7.55
+Game 401,Mobile,2018,Puzzle,Nintendo,2.14,1.08,1.52,0.07,4.8100000000000005
+Game 402,PC,2012,Simulation,Square Enix,2.22,0.77,1.36,0.2,4.550000000000001
+Game 403,Mobile,2013,Strategy,Activision,3.25,0.05,0.61,0.04,3.9499999999999997
+Game 404,Switch,2009,Adventure,Square Enix,4.68,1.63,0.38,0.75,7.4399999999999995
+Game 405,Mobile,2010,Simulation,Indie,0.33,2.55,1.52,0.73,5.130000000000001
+Game 406,PC,2001,Adventure,Nintendo,4.13,2.87,0.95,0.14,8.09
+Game 407,Switch,2008,Simulation,Indie,1.47,1.7,0.46,0.84,4.47
+Game 408,Mobile,2016,Strategy,Activision,2.23,1.55,1.24,0.16,5.180000000000001
+Game 409,Switch,2002,Action,Electronic Arts,0.12,0.26,0.09,0.31,0.78
+Game 410,PS4,2005,Strategy,Electronic Arts,1.51,1.65,0.66,0.26,4.08
+Game 411,PS4,2004,Strategy,Indie,2.52,1.15,0.94,0.38,4.989999999999999
+Game 412,Mobile,2004,Adventure,Ubisoft,0.29,1.83,0.3,0.26,2.6799999999999997
+Game 413,Switch,2021,Adventure,Nintendo,2.46,1.17,1.97,0.49,6.09
+Game 414,PC,2014,Strategy,Nintendo,4.64,0.73,0.43,0.41,6.209999999999999
+Game 415,Mobile,2016,Strategy,Electronic Arts,0.54,0.29,0.27,0.99,2.09
+Game 416,PS4,2008,Strategy,Square Enix,3.82,0.95,0.42,0.07,5.26
+Game 417,PS4,2002,Adventure,Activision,2.05,0.3,1.54,0.15,4.04
+Game 418,Mobile,2019,Strategy,Square Enix,3.28,0.54,0.86,0.06,4.739999999999999
+Game 419,Switch,2016,Strategy,Square Enix,1.31,2.96,1.14,0.63,6.039999999999999
+Game 420,PS4,2009,Sports,Indie,0.81,1.34,0.05,0.06,2.2600000000000002
+Game 421,Switch,2002,Action,Electronic Arts,0.81,1.6,0.08,0.84,3.33
+Game 422,PS4,2017,RPG,Electronic Arts,0.36,2.62,0.9,0.52,4.4
+Game 423,PS4,2017,Action,Electronic Arts,0.94,2.99,1.64,0.53,6.1000000000000005
+Game 424,Xbox One,2016,Sports,Indie,3.32,1.75,1.77,0.57,7.41
+Game 425,PS4,2002,RPG,Ubisoft,4.41,2.44,0.18,0.18,7.209999999999999
+Game 426,PC,2002,Simulation,Square Enix,4.07,0.99,1.08,0.21,6.3500000000000005
+Game 427,Mobile,2005,Strategy,Indie,3.43,0.92,1.83,0.33,6.510000000000001
+Game 428,Mobile,2012,Sports,Nintendo,0.56,1.21,0.78,0.6,3.15
+Game 429,Switch,2014,Simulation,Activision,1.45,2.02,1.66,0.22,5.35
+Game 430,PS4,2008,Strategy,Ubisoft,1.56,2.05,0.28,0.13,4.02
+Game 431,PC,2003,Adventure,Nintendo,1.26,0.95,1.87,0.97,5.05
+Game 432,Switch,2013,Puzzle,Square Enix,2.58,0.41,1.51,0.03,4.53
+Game 433,Xbox One,2004,Sports,Electronic Arts,2.68,1.9,1.88,0.8,7.26
+Game 434,Switch,2001,Adventure,Square Enix,1.79,0.39,1.36,0.79,4.33
+Game 435,Switch,2010,Sports,Indie,1.78,1.74,0.73,0.3,4.55
+Game 436,PS4,2008,Sports,Activision,4.14,2.08,1.88,0.14,8.24
+Game 437,Xbox One,2002,Adventure,Indie,3.95,2.1,0.56,0.15,6.760000000000002
+Game 438,Switch,2008,RPG,Ubisoft,1.55,2.26,0.67,0.7,5.18
+Game 439,PC,2002,Action,Ubisoft,4.57,2.62,1.4,0.65,9.24
+Game 440,PC,2001,Strategy,Activision,4.76,1.5,1.53,0.78,8.57
+Game 441,Mobile,2011,Sports,Nintendo,1.64,2.19,1.86,0.94,6.630000000000001
+Game 442,Xbox One,2009,Strategy,Nintendo,1.78,1.86,0.42,0.7,4.760000000000001
+Game 443,Xbox One,2008,Puzzle,Ubisoft,2.53,0.57,1.6,0.16,4.859999999999999
+Game 444,Mobile,2014,Adventure,Ubisoft,4.71,0.09,1.48,0.25,6.529999999999999
+Game 445,Switch,2007,Strategy,Electronic Arts,4.38,0.86,0.14,0.84,6.22
+Game 446,Xbox One,2004,Adventure,Nintendo,0.52,1.33,0.78,0.22,2.85
+Game 447,PC,2010,Strategy,Activision,1.97,1.86,0.57,0.08,4.48
+Game 448,PC,2001,Action,Nintendo,2.77,2.55,0.62,0.71,6.65
+Game 449,PS4,2014,Action,Electronic Arts,2.52,0.6,1.97,0.41,5.5
+Game 450,Xbox One,2005,Action,Indie,0.98,0.39,1.29,0.92,3.58
+Game 451,Switch,2007,Action,Ubisoft,4.3,2.89,1.44,0.65,9.28
+Game 452,Mobile,2004,Action,Ubisoft,3.39,0.33,1.95,0.1,5.77
+Game 453,Mobile,2015,Action,Electronic Arts,4.19,1.44,0.76,0.95,7.340000000000001
+Game 454,Switch,2017,Adventure,Activision,4.3,1.76,1.61,0.27,7.9399999999999995
+Game 455,PS4,2005,Sports,Ubisoft,3.74,1.63,0.87,0.34,6.58
+Game 456,Mobile,2004,Strategy,Square Enix,2.2,0.27,1.74,0.41,4.62
+Game 457,Xbox One,2015,Action,Ubisoft,3.06,0.18,0.37,0.06,3.6700000000000004
+Game 458,PS4,2012,Adventure,Square Enix,0.81,0.33,1.9,0.5,3.54
+Game 459,Xbox One,2004,Adventure,Electronic Arts,3.37,1.76,0.45,0.13,5.71
+Game 460,PC,2012,Adventure,Electronic Arts,0.9,1.64,0.66,0.41,3.6100000000000003
+Game 461,PS4,2016,Sports,Ubisoft,3.47,0.71,1.51,0.36,6.05
+Game 462,Mobile,2017,Strategy,Nintendo,1.16,1.92,0.79,0.78,4.65
+Game 463,PS4,2007,Sports,Square Enix,0.6,2.46,1.22,0.81,5.09
+Game 464,PS4,2012,RPG,Activision,0.83,0.13,0.89,0.16,2.0100000000000002
+Game 465,PS4,2018,Simulation,Ubisoft,0.02,1.5,1.49,0.37,3.38
+Game 466,PS4,2002,Adventure,Activision,3.6,2.07,0.46,0.38,6.51
+Game 467,Xbox One,2007,RPG,Ubisoft,3.66,0.76,0.13,0.16,4.71
+Game 468,PC,2001,Puzzle,Nintendo,2.58,0.93,0.61,0.8,4.92
+Game 469,Switch,2007,Action,Nintendo,0.82,1.84,0.95,0.71,4.32
+Game 470,PS4,2012,Simulation,Nintendo,0.43,2.69,0.34,0.2,3.66
+Game 471,Mobile,2012,Action,Indie,0.11,2.43,0.72,0.37,3.63
+Game 472,PS4,2000,Sports,Nintendo,0.84,1.75,0.81,0.11,3.51
+Game 473,Mobile,2005,Simulation,Electronic Arts,4.46,2.19,0.12,0.63,7.4
+Game 474,Xbox One,2018,Strategy,Electronic Arts,1.22,1.1,1.17,0.13,3.62
+Game 475,Mobile,2015,RPG,Indie,1.78,1.93,1.77,0.99,6.470000000000001
+Game 476,Switch,2007,Strategy,Square Enix,0.54,1.4,0.31,0.78,3.0300000000000002
+Game 477,PC,2000,Sports,Activision,1.12,0.58,1.2,0.4,3.3000000000000003
+Game 478,Mobile,2015,Action,Ubisoft,2.6,2.11,1.33,0.58,6.62
+Game 479,Mobile,2008,Simulation,Ubisoft,3.04,1.67,0.84,0.91,6.46
+Game 480,PC,2012,Strategy,Indie,1.23,1.08,1.41,0.56,4.279999999999999
+Game 481,Switch,2010,Strategy,Electronic Arts,0.3,2.73,0.83,0.18,4.04
+Game 482,PS4,2012,Action,Ubisoft,1.96,0.07,1.01,0.38,3.42
+Game 483,Mobile,2020,Simulation,Electronic Arts,1.18,0.95,0.02,0.84,2.9899999999999998
+Game 484,PC,2009,RPG,Square Enix,1.11,0.18,1.39,0.65,3.3299999999999996
+Game 485,Xbox One,2003,Action,Activision,4.8,2.3,1.33,0.65,9.08
+Game 486,PC,2005,Strategy,Square Enix,3.09,2.11,0.09,0.87,6.159999999999999
+Game 487,Xbox One,2006,RPG,Indie,2.79,1.0,0.74,0.9,5.430000000000001
+Game 488,Switch,2004,RPG,Nintendo,2.08,2.03,1.96,0.92,6.989999999999999
+Game 489,PS4,2010,Action,Nintendo,2.15,1.19,0.85,0.1,4.289999999999999
+Game 490,PC,2012,Strategy,Nintendo,2.71,2.27,1.01,0.55,6.54
+Game 491,Mobile,2018,Sports,Square Enix,3.49,1.37,1.82,0.74,7.420000000000001
+Game 492,Switch,2009,Strategy,Ubisoft,3.51,1.24,1.44,0.76,6.949999999999999
+Game 493,PC,2009,Adventure,Activision,0.87,2.8,1.17,0.61,5.45
+Game 494,Mobile,2010,Simulation,Nintendo,2.51,0.76,1.6,0.18,5.049999999999999
+Game 495,PC,2020,Puzzle,Indie,2.07,0.37,1.73,0.8,4.97
+Game 496,Xbox One,2006,Sports,Indie,4.35,1.76,0.92,0.72,7.749999999999999
+Game 497,PC,2017,RPG,Nintendo,3.16,2.91,0.96,0.1,7.13
+Game 498,PC,2003,Sports,Nintendo,2.67,1.14,0.78,0.47,5.06
+Game 499,PC,2001,Simulation,Activision,0.59,0.2,1.93,0.18,2.9
+Game 500,Switch,2013,RPG,Nintendo,3.03,1.02,1.4,0.34,5.789999999999999
+Game 501,PC,2012,Simulation,Activision,0.59,1.52,0.18,0.03,2.32
+Game 502,Mobile,2011,RPG,Indie,1.69,0.49,1.73,0.41,4.319999999999999
+Game 503,Xbox One,2006,Sports,Nintendo,0.72,1.98,0.97,0.55,4.22
+Game 504,Xbox One,2001,RPG,Square Enix,3.46,2.99,0.15,0.62,7.220000000000001
+Game 505,PC,2012,RPG,Square Enix,1.04,1.36,1.1,0.67,4.170000000000001
+Game 506,Switch,2013,Adventure,Indie,1.97,1.07,0.84,0.84,4.72
+Game 507,Switch,2016,Strategy,Activision,4.48,1.21,1.76,0.22,7.67
+Game 508,Mobile,2008,Strategy,Square Enix,1.03,0.35,0.42,0.13,1.9299999999999997
+Game 509,PC,2016,Puzzle,Activision,2.54,2.65,1.65,0.85,7.6899999999999995
+Game 510,Xbox One,2007,Puzzle,Square Enix,2.1,1.25,1.12,0.17,4.640000000000001
+Game 511,Switch,2001,Adventure,Square Enix,0.1,1.17,0.12,0.98,2.37
+Game 512,PC,2012,Puzzle,Activision,3.97,1.98,1.94,0.84,8.73
+Game 513,Switch,2002,Simulation,Ubisoft,0.35,1.33,1.03,0.51,3.2199999999999998
+Game 514,Switch,2015,Sports,Square Enix,2.38,1.95,0.59,0.98,5.9
+Game 515,Xbox One,2005,Action,Nintendo,2.81,0.19,0.94,0.11,4.05
+Game 516,PS4,2018,Simulation,Indie,3.15,2.44,1.72,0.31,7.619999999999999
+Game 517,Mobile,2006,Action,Ubisoft,3.45,2.82,0.62,0.64,7.529999999999999
+Game 518,Mobile,2009,Action,Activision,1.27,1.95,0.39,0.36,3.9699999999999998
+Game 519,Xbox One,2008,Adventure,Ubisoft,0.06,2.86,0.27,0.93,4.12
+Game 520,Switch,2001,Simulation,Electronic Arts,3.62,0.46,0.6,0.07,4.75
+Game 521,PC,2014,Adventure,Electronic Arts,2.68,1.44,1.56,0.55,6.2299999999999995
+Game 522,Switch,2004,RPG,Square Enix,4.18,1.81,0.95,0.59,7.53
+Game 523,Xbox One,2021,Action,Square Enix,4.11,1.75,0.46,0.66,6.98
+Game 524,Mobile,2003,Sports,Nintendo,4.22,1.21,0.34,0.26,6.029999999999999
+Game 525,Switch,2019,Puzzle,Indie,2.43,1.02,0.67,0.37,4.49
+Game 526,Mobile,2003,Sports,Ubisoft,1.67,0.39,1.88,0.85,4.79
+Game 527,PC,2017,Puzzle,Electronic Arts,3.96,1.18,0.69,0.2,6.03
+Game 528,Mobile,2003,Action,Square Enix,2.26,0.5,1.98,0.83,5.57
+Game 529,Mobile,2016,Action,Indie,0.93,2.21,0.98,0.57,4.69
+Game 530,PS4,2011,Action,Ubisoft,4.28,0.63,0.37,0.76,6.04
+Game 531,PS4,2021,Adventure,Square Enix,4.41,0.19,1.78,0.72,7.1000000000000005
+Game 532,PS4,2016,Simulation,Square Enix,2.34,1.66,0.93,0.22,5.1499999999999995
+Game 533,Mobile,2009,Puzzle,Electronic Arts,0.39,1.79,1.42,0.57,4.17
+Game 534,Xbox One,2021,Simulation,Electronic Arts,1.95,2.62,1.97,0.87,7.41
+Game 535,Mobile,2000,Adventure,Square Enix,4.02,1.74,0.11,0.44,6.3100000000000005
+Game 536,Xbox One,2021,Adventure,Activision,4.51,1.04,0.2,0.97,6.72
+Game 537,Xbox One,2017,Strategy,Square Enix,1.03,2.41,1.44,0.46,5.340000000000001
+Game 538,PS4,2017,Sports,Indie,0.34,1.63,0.57,0.15,2.69
+Game 539,Switch,2013,Sports,Square Enix,4.39,0.25,0.38,0.4,5.42
+Game 540,PC,2014,RPG,Nintendo,1.95,1.7,0.09,0.95,4.6899999999999995
+Game 541,PS4,2011,Adventure,Nintendo,2.71,2.72,0.05,0.33,5.81
+Game 542,PS4,2003,Puzzle,Nintendo,4.84,1.19,1.55,0.87,8.45
+Game 543,Switch,2002,Strategy,Activision,0.34,0.9,0.28,0.88,2.4
+Game 544,PC,2019,Strategy,Activision,3.25,0.44,0.94,0.36,4.99
+Game 545,Mobile,2011,Simulation,Square Enix,0.38,0.46,1.22,0.09,2.15
+Game 546,Mobile,2006,Sports,Nintendo,1.88,1.3,0.86,0.73,4.77
+Game 547,PS4,2010,Adventure,Activision,4.02,1.79,0.06,0.32,6.1899999999999995
+Game 548,PC,2000,RPG,Electronic Arts,2.17,0.25,1.57,0.79,4.78
+Game 549,PS4,2005,Adventure,Square Enix,4.99,2.82,0.03,0.45,8.290000000000001
+Game 550,Xbox One,2014,Simulation,Indie,2.8,2.27,1.53,0.49,7.090000000000001
+Game 551,PS4,2014,Action,Ubisoft,1.61,1.76,1.79,0.78,5.94
+Game 552,PS4,2018,Adventure,Square Enix,1.11,2.49,0.87,0.39,4.86
+Game 553,Mobile,2010,Simulation,Ubisoft,1.76,0.25,1.08,0.45,3.54
+Game 554,Mobile,2001,Action,Nintendo,1.87,1.44,0.96,0.38,4.6499999999999995
+Game 555,Mobile,2013,Action,Ubisoft,0.35,1.89,0.78,0.37,3.3899999999999997
+Game 556,Xbox One,2001,RPG,Nintendo,1.85,2.49,1.78,0.53,6.65
+Game 557,Mobile,2003,Puzzle,Electronic Arts,2.33,2.35,1.79,0.81,7.279999999999999
+Game 558,PC,2016,Sports,Ubisoft,3.62,0.84,0.68,0.37,5.51
+Game 559,Switch,2002,Adventure,Square Enix,3.29,2.82,1.23,0.53,7.87
+Game 560,PC,2012,Action,Nintendo,3.55,0.38,1.85,0.67,6.449999999999999
+Game 561,PC,2008,Adventure,Square Enix,0.05,2.63,1.92,0.28,4.88
+Game 562,Mobile,2006,Puzzle,Activision,1.1,2.91,1.02,0.28,5.31
+Game 563,Switch,2014,Sports,Nintendo,3.31,0.54,0.91,0.93,5.6899999999999995
+Game 564,Switch,2010,Puzzle,Ubisoft,2.43,2.17,0.56,0.73,5.890000000000001
+Game 565,Switch,2019,Sports,Nintendo,0.04,0.13,1.92,0.58,2.67
+Game 566,Xbox One,2001,Strategy,Square Enix,4.02,1.22,0.29,0.65,6.18
+Game 567,Mobile,2014,Sports,Electronic Arts,3.87,1.55,1.16,0.04,6.62
+Game 568,Switch,2013,RPG,Nintendo,2.75,1.75,0.57,0.62,5.69
+Game 569,Xbox One,2019,Puzzle,Ubisoft,0.34,2.81,0.57,0.51,4.2299999999999995
+Game 570,PS4,2021,Action,Activision,3.83,2.02,0.82,0.55,7.22
+Game 571,PS4,2010,Strategy,Indie,2.92,1.45,2.0,0.37,6.74
+Game 572,Xbox One,2002,RPG,Electronic Arts,3.91,2.43,0.12,0.09,6.55
+Game 573,Xbox One,2016,Adventure,Activision,3.76,2.85,1.16,0.2,7.97
+Game 574,Mobile,2011,Puzzle,Nintendo,4.02,0.08,0.17,0.95,5.22
+Game 575,Mobile,2020,Simulation,Square Enix,2.59,2.95,0.32,0.41,6.2700000000000005
+Game 576,PS4,2014,Simulation,Square Enix,0.71,0.27,0.88,0.47,2.33
+Game 577,Switch,2015,Action,Ubisoft,3.36,2.45,1.03,0.06,6.9
+Game 578,PS4,2004,Sports,Square Enix,3.11,0.85,0.52,0.05,4.53
+Game 579,Switch,2019,Action,Electronic Arts,3.71,0.41,0.64,0.72,5.4799999999999995
+Game 580,Switch,2005,Simulation,Square Enix,0.86,1.33,0.18,0.54,2.91
+Game 581,Mobile,2018,Adventure,Ubisoft,0.98,1.94,0.61,0.51,4.04
+Game 582,PC,2004,Strategy,Indie,4.45,1.15,1.93,0.25,7.779999999999999
+Game 583,PC,2002,Strategy,Nintendo,3.75,0.17,1.89,0.75,6.56
+Game 584,Xbox One,2000,Puzzle,Nintendo,4.54,1.8,0.68,0.18,7.199999999999999
+Game 585,Mobile,2005,Strategy,Square Enix,3.8,2.71,1.15,0.2,7.86
+Game 586,Switch,2014,Puzzle,Activision,2.99,1.16,1.82,0.47,6.44
+Game 587,PC,2001,Puzzle,Nintendo,3.27,0.66,0.02,0.29,4.24
+Game 588,Switch,2002,Puzzle,Indie,4.45,1.33,1.62,0.25,7.65
+Game 589,PC,2016,Simulation,Square Enix,2.9,0.15,1.9,0.65,5.6
+Game 590,PC,2011,Simulation,Ubisoft,3.17,2.46,0.19,0.65,6.470000000000001
+Game 591,PC,2017,Sports,Indie,0.79,2.48,0.33,0.83,4.43
+Game 592,Mobile,2014,RPG,Square Enix,2.37,1.77,1.92,0.42,6.48
+Game 593,PS4,2011,Puzzle,Indie,3.58,1.07,1.08,0.08,5.8100000000000005
+Game 594,Switch,2015,Puzzle,Nintendo,1.36,2.4,0.04,0.28,4.08
+Game 595,Mobile,2007,RPG,Ubisoft,1.02,1.67,0.52,0.98,4.1899999999999995
+Game 596,Mobile,2013,Action,Square Enix,1.58,2.48,0.91,0.6,5.57
+Game 597,Mobile,2016,Puzzle,Electronic Arts,1.22,1.9,1.39,0.71,5.22
+Game 598,Mobile,2020,Sports,Ubisoft,1.08,2.36,1.47,0.02,4.93
+Game 599,Mobile,2007,Strategy,Electronic Arts,2.13,1.8,1.99,0.52,6.4399999999999995
+Game 600,Xbox One,2014,Strategy,Indie,4.54,1.25,0.58,0.05,6.42
+Game 601,Switch,2013,Adventure,Activision,2.54,2.87,1.08,0.57,7.0600000000000005
+Game 602,Mobile,2017,Adventure,Ubisoft,0.95,1.63,1.07,0.92,4.57
+Game 603,Switch,2019,Strategy,Indie,0.39,1.82,0.82,0.97,4.0
+Game 604,Xbox One,2006,Strategy,Electronic Arts,3.48,0.67,0.35,0.55,5.05
+Game 605,Xbox One,2002,Simulation,Nintendo,1.92,1.88,1.96,0.46,6.22
+Game 606,Switch,2011,Sports,Nintendo,4.11,1.72,1.71,0.95,8.49
+Game 607,PC,2020,RPG,Activision,3.3,0.56,1.0,0.68,5.539999999999999
+Game 608,PS4,2002,Adventure,Ubisoft,3.98,0.19,1.21,0.07,5.45
+Game 609,PC,2019,Simulation,Ubisoft,1.37,1.82,0.46,0.47,4.12
+Game 610,PC,2013,Simulation,Ubisoft,3.46,2.29,1.09,0.25,7.09
+Game 611,PC,2014,RPG,Indie,1.33,1.57,1.39,0.48,4.77
+Game 612,Mobile,2013,Simulation,Activision,4.7,0.69,1.04,0.46,6.890000000000001
+Game 613,Xbox One,2006,Sports,Ubisoft,3.19,2.0,1.98,0.59,7.76
+Game 614,PC,2016,Strategy,Indie,1.63,0.25,1.23,0.36,3.4699999999999998
+Game 615,Xbox One,2011,Puzzle,Nintendo,1.35,1.33,0.75,0.17,3.6
+Game 616,Switch,2019,RPG,Electronic Arts,0.96,0.5,1.55,0.51,3.5199999999999996
+Game 617,PS4,2003,Strategy,Indie,3.48,0.56,0.35,0.83,5.22
+Game 618,Switch,2008,Strategy,Nintendo,1.1,0.61,0.78,0.67,3.16
+Game 619,Switch,2005,Action,Nintendo,2.98,1.17,0.7,0.34,5.19
+Game 620,Mobile,2015,RPG,Electronic Arts,1.33,0.16,0.87,0.94,3.3
+Game 621,PS4,2021,Simulation,Nintendo,3.31,1.2,1.57,0.91,6.99
+Game 622,Switch,2021,Puzzle,Activision,4.08,1.54,0.97,0.22,6.81
+Game 623,Switch,2020,RPG,Electronic Arts,3.89,1.46,1.59,0.05,6.989999999999999
+Game 624,PS4,2020,Simulation,Nintendo,3.81,1.15,1.16,0.74,6.86
+Game 625,PS4,2001,Strategy,Square Enix,0.95,2.52,0.69,0.83,4.99
+Game 626,Switch,2007,Puzzle,Indie,0.45,0.44,1.62,0.97,3.4800000000000004
+Game 627,PS4,2010,Simulation,Nintendo,3.5,1.52,0.48,0.89,6.39
+Game 628,Switch,2012,Sports,Activision,1.85,0.2,0.46,0.6,3.1100000000000003
+Game 629,Switch,2016,Simulation,Ubisoft,2.17,0.22,1.01,0.53,3.9300000000000006
+Game 630,Mobile,2007,Action,Nintendo,0.17,1.73,0.53,0.04,2.4699999999999998
+Game 631,PC,2020,Strategy,Ubisoft,1.31,1.7,0.03,0.25,3.2899999999999996
+Game 632,Switch,2017,Simulation,Square Enix,0.18,2.64,1.3,0.47,4.59
+Game 633,Xbox One,2017,Adventure,Nintendo,4.4,1.68,1.03,0.63,7.74
+Game 634,PC,2013,Adventure,Electronic Arts,1.22,2.88,0.9,0.56,5.5600000000000005
+Game 635,PC,2014,Action,Ubisoft,2.79,0.16,1.93,0.75,5.63
+Game 636,PC,2005,Sports,Square Enix,0.2,0.3,1.15,0.29,1.94
+Game 637,Mobile,2010,Strategy,Electronic Arts,3.34,0.14,1.73,0.57,5.78
+Game 638,Switch,2012,RPG,Electronic Arts,1.62,0.56,0.29,0.1,2.5700000000000003
+Game 639,Mobile,2000,Action,Electronic Arts,4.49,1.63,1.14,0.42,7.68
+Game 640,Switch,2005,Sports,Electronic Arts,4.44,1.94,1.74,0.75,8.870000000000001
+Game 641,Mobile,2008,RPG,Nintendo,1.63,0.15,1.17,0.7,3.6499999999999995
+Game 642,Mobile,2007,Adventure,Indie,4.51,2.84,1.44,0.99,9.78
+Game 643,Xbox One,2010,Adventure,Nintendo,4.98,2.53,0.75,0.29,8.549999999999999
+Game 644,Mobile,2021,RPG,Nintendo,4.13,0.9,0.19,0.5,5.720000000000001
+Game 645,PS4,2018,Action,Square Enix,4.23,0.24,0.92,0.34,5.73
+Game 646,Xbox One,2008,Adventure,Square Enix,1.25,0.52,0.8,0.45,3.0200000000000005
+Game 647,Mobile,2016,Strategy,Indie,2.89,0.39,1.74,0.86,5.880000000000001
+Game 648,PC,2011,Puzzle,Square Enix,0.35,0.38,0.5,0.69,1.92
+Game 649,PS4,2013,Simulation,Activision,0.48,1.56,1.93,0.88,4.85
+Game 650,PS4,2014,RPG,Indie,4.99,0.75,1.92,0.21,7.87
+Game 651,PS4,2015,RPG,Square Enix,1.64,1.08,0.5,0.87,4.09
+Game 652,Xbox One,2021,Adventure,Indie,3.74,2.97,0.7,0.07,7.480000000000001
+Game 653,Mobile,2021,Action,Nintendo,4.04,2.06,1.79,0.89,8.78
+Game 654,Mobile,2019,Strategy,Nintendo,4.29,2.85,1.93,0.34,9.41
+Game 655,PC,2000,Action,Indie,4.99,0.44,0.89,0.32,6.640000000000001
+Game 656,PC,2009,Sports,Activision,1.22,1.15,0.65,0.52,3.54
+Game 657,PS4,2007,Sports,Activision,0.21,1.67,1.06,0.94,3.88
+Game 658,PC,2017,Puzzle,Indie,2.06,0.24,1.38,0.06,3.7399999999999998
+Game 659,Xbox One,2000,Adventure,Square Enix,0.66,0.02,0.55,0.36,1.5899999999999999
+Game 660,Mobile,2001,Adventure,Ubisoft,0.12,2.01,1.48,0.86,4.47
+Game 661,PS4,2000,Adventure,Activision,1.81,1.93,0.11,0.4,4.25
+Game 662,PC,2000,Puzzle,Electronic Arts,3.92,1.24,0.11,0.21,5.48
+Game 663,Xbox One,2008,Sports,Nintendo,2.84,1.47,0.78,0.43,5.52
+Game 664,Xbox One,2012,Action,Indie,1.57,1.25,0.71,0.39,3.9200000000000004
+Game 665,PC,2000,Puzzle,Electronic Arts,3.28,0.08,0.64,0.92,4.92
+Game 666,Mobile,2012,Puzzle,Indie,1.17,1.01,0.99,0.76,3.9299999999999997
+Game 667,PC,2019,Action,Nintendo,0.08,0.54,0.65,0.51,1.78
+Game 668,PS4,2021,Adventure,Nintendo,3.82,0.3,0.39,0.99,5.5
+Game 669,PC,2006,Strategy,Activision,3.12,2.87,0.63,0.47,7.09
+Game 670,Xbox One,2001,Action,Activision,3.81,1.8,1.95,0.07,7.630000000000001
+Game 671,PC,2005,Sports,Electronic Arts,0.2,2.19,0.83,0.27,3.49
+Game 672,Mobile,2006,RPG,Indie,4.19,0.95,0.89,0.44,6.470000000000001
+Game 673,Switch,2013,RPG,Nintendo,3.1,1.19,1.16,0.17,5.62
+Game 674,PC,2017,Simulation,Electronic Arts,2.82,0.72,1.97,0.95,6.46
+Game 675,Mobile,2014,Simulation,Ubisoft,3.13,0.3,0.49,0.77,4.6899999999999995
+Game 676,Mobile,2001,Puzzle,Electronic Arts,4.32,0.55,1.37,0.28,6.5200000000000005
+Game 677,Xbox One,2009,RPG,Square Enix,2.94,2.39,1.43,0.59,7.35
+Game 678,Mobile,2011,Strategy,Electronic Arts,2.91,2.04,1.22,0.72,6.89
+Game 679,Mobile,2016,Adventure,Square Enix,4.95,1.65,0.19,0.94,7.73
+Game 680,Mobile,2007,Sports,Square Enix,3.79,1.43,1.36,0.88,7.46
+Game 681,Mobile,2010,Simulation,Square Enix,2.22,2.77,0.14,0.52,5.65
+Game 682,PS4,2002,Strategy,Ubisoft,3.54,0.23,1.2,0.78,5.75
+Game 683,PS4,2005,Sports,Electronic Arts,1.95,0.85,1.48,0.57,4.85
+Game 684,Xbox One,2008,Sports,Electronic Arts,1.15,1.06,0.43,0.56,3.2
+Game 685,PC,2005,Adventure,Ubisoft,2.99,2.35,1.68,0.12,7.14
+Game 686,Mobile,2008,Puzzle,Nintendo,4.64,2.98,0.07,0.13,7.819999999999999
+Game 687,PC,2006,RPG,Activision,4.65,0.73,1.69,0.53,7.6000000000000005
+Game 688,PC,2008,Adventure,Electronic Arts,1.72,2.62,0.93,0.28,5.55
+Game 689,Xbox One,2017,Strategy,Activision,2.64,2.49,0.44,0.03,5.600000000000001
+Game 690,Mobile,2011,Puzzle,Indie,1.07,0.68,0.28,0.73,2.7600000000000002
+Game 691,Mobile,2007,Strategy,Indie,4.98,1.2,1.91,0.04,8.129999999999999
+Game 692,Switch,2007,Puzzle,Ubisoft,4.91,1.23,0.15,0.6,6.890000000000001
+Game 693,PC,2017,Simulation,Indie,3.25,2.93,0.41,0.54,7.13
+Game 694,PC,2019,Strategy,Indie,4.02,0.55,0.7,0.97,6.239999999999999
+Game 695,PS4,2014,Adventure,Nintendo,3.58,2.4,1.24,0.49,7.710000000000001
+Game 696,Switch,2006,Puzzle,Nintendo,2.97,1.01,1.09,0.07,5.140000000000001
+Game 697,PS4,2010,Puzzle,Nintendo,0.28,2.2,0.26,0.56,3.3000000000000003
+Game 698,PS4,2019,Sports,Indie,2.28,1.27,0.59,0.84,4.9799999999999995
+Game 699,PS4,2015,Sports,Ubisoft,3.38,1.74,0.49,1.0,6.61
+Game 700,Xbox One,2003,Action,Square Enix,3.39,2.5,0.43,0.44,6.760000000000001
+Game 701,Xbox One,2005,Strategy,Square Enix,1.87,2.41,0.83,0.33,5.44
+Game 702,PS4,2021,Sports,Activision,4.71,2.6,1.41,0.91,9.63
+Game 703,Switch,2002,Action,Square Enix,0.85,0.19,0.44,0.2,1.68
+Game 704,PC,2008,Simulation,Square Enix,2.51,2.08,0.74,0.62,5.95
+Game 705,Switch,2009,Simulation,Nintendo,3.46,0.43,0.79,0.41,5.09
+Game 706,Mobile,2013,Sports,Nintendo,3.49,1.25,1.95,0.05,6.74
+Game 707,Xbox One,2010,Strategy,Indie,3.25,1.65,1.91,0.35,7.16
+Game 708,PC,2017,Puzzle,Activision,1.38,1.21,1.6,0.27,4.459999999999999
+Game 709,PC,2021,RPG,Electronic Arts,0.79,1.56,0.49,0.69,3.53
+Game 710,Mobile,2011,Strategy,Activision,3.18,2.99,0.15,0.95,7.2700000000000005
+Game 711,Mobile,2011,Adventure,Activision,3.0,0.41,0.64,0.28,4.33
+Game 712,PS4,2012,Simulation,Ubisoft,0.9,2.03,0.54,0.81,4.279999999999999
+Game 713,Xbox One,2012,Sports,Indie,3.53,1.19,1.02,0.06,5.8
+Game 714,Xbox One,2018,Sports,Ubisoft,2.28,0.41,1.56,0.54,4.79
+Game 715,Switch,2018,Puzzle,Activision,3.34,0.48,1.72,0.08,5.62
+Game 716,PS4,2013,Adventure,Activision,4.19,2.85,1.69,0.93,9.66
+Game 717,PS4,2003,Puzzle,Activision,0.86,2.64,0.73,0.77,5.0
+Game 718,PS4,2012,Adventure,Square Enix,0.11,2.72,1.38,0.66,4.87
+Game 719,PS4,2007,RPG,Ubisoft,3.9,2.97,0.63,0.83,8.33
+Game 720,Xbox One,2020,Simulation,Activision,3.05,0.63,0.13,0.65,4.46
+Game 721,Xbox One,2018,Sports,Nintendo,3.5,1.07,1.41,0.97,6.95
+Game 722,PS4,2011,Sports,Indie,4.19,2.01,0.03,0.72,6.95
+Game 723,Switch,2017,RPG,Indie,4.02,1.46,0.82,0.93,7.2299999999999995
+Game 724,PC,2005,Action,Nintendo,4.8,1.26,0.67,0.52,7.25
+Game 725,PC,2017,Simulation,Indie,2.68,1.08,1.39,0.13,5.28
+Game 726,Switch,2018,Puzzle,Square Enix,2.45,1.79,1.53,0.53,6.300000000000001
+Game 727,PS4,2021,RPG,Square Enix,2.02,1.73,0.62,0.14,4.51
+Game 728,Xbox One,2004,Puzzle,Electronic Arts,0.78,0.49,1.63,0.6,3.5
+Game 729,PC,2008,Strategy,Electronic Arts,2.87,1.42,0.59,0.49,5.37
+Game 730,Mobile,2002,Sports,Electronic Arts,1.39,1.66,0.9,0.63,4.58
+Game 731,Mobile,2009,Puzzle,Indie,4.61,1.72,1.46,0.02,7.81
+Game 732,Switch,2018,Adventure,Square Enix,2.92,0.64,1.39,0.2,5.15
+Game 733,PS4,2002,Puzzle,Square Enix,2.97,2.23,1.97,0.5,7.67
+Game 734,PC,2021,Strategy,Square Enix,1.78,0.09,0.46,0.95,3.2800000000000002
+Game 735,PS4,2014,Simulation,Nintendo,0.27,1.07,1.33,0.39,3.06
+Game 736,PC,2000,Sports,Square Enix,0.17,2.34,1.22,0.43,4.159999999999999
+Game 737,Switch,2006,RPG,Nintendo,2.12,1.7,1.83,0.72,6.37
+Game 738,Switch,2011,Strategy,Electronic Arts,0.43,0.79,0.32,0.61,2.15
+Game 739,Mobile,2016,Sports,Electronic Arts,3.04,2.09,1.51,0.31,6.949999999999999
+Game 740,PS4,2020,Puzzle,Indie,4.41,1.71,1.14,0.42,7.68
+Game 741,Mobile,2019,Simulation,Electronic Arts,4.42,2.39,0.56,0.23,7.600000000000001
+Game 742,PS4,2004,Action,Indie,3.3,2.21,0.95,0.97,7.43
+Game 743,Mobile,2003,Simulation,Activision,1.06,1.83,0.67,0.14,3.7
+Game 744,Xbox One,2011,Action,Activision,4.32,1.47,1.16,0.38,7.33
+Game 745,Xbox One,2019,Adventure,Ubisoft,4.43,0.41,1.78,0.04,6.66
+Game 746,Xbox One,2017,Simulation,Indie,0.99,0.79,1.14,0.23,3.15
+Game 747,Xbox One,2016,Sports,Ubisoft,3.69,1.26,1.27,0.78,7.000000000000001
+Game 748,PC,2018,Action,Ubisoft,1.44,1.8,1.04,0.21,4.49
+Game 749,Xbox One,2008,RPG,Activision,4.02,1.55,0.11,0.09,5.77
+Game 750,Switch,2003,Sports,Indie,4.99,0.87,0.47,0.48,6.8100000000000005
+Game 751,Switch,2020,RPG,Activision,0.16,0.03,0.99,0.02,1.2
+Game 752,PC,2001,Simulation,Ubisoft,4.49,1.49,0.63,0.09,6.7
+Game 753,Xbox One,2003,RPG,Indie,3.12,0.86,0.37,0.81,5.16
+Game 754,Xbox One,2001,Action,Ubisoft,4.87,2.21,1.01,0.77,8.86
+Game 755,Xbox One,2014,Sports,Square Enix,2.33,0.08,0.65,0.92,3.98
+Game 756,Mobile,2001,Puzzle,Indie,4.24,1.76,0.52,0.86,7.38
+Game 757,PS4,2003,Strategy,Indie,0.32,2.83,0.93,0.69,4.77
+Game 758,Mobile,2005,Action,Ubisoft,1.68,0.53,0.28,0.06,2.5500000000000003
+Game 759,PS4,2006,Action,Square Enix,0.34,1.42,1.86,0.79,4.41
+Game 760,Xbox One,2009,Puzzle,Nintendo,4.88,0.28,1.74,0.85,7.75
+Game 761,Xbox One,2018,Sports,Activision,4.09,1.88,1.42,0.8,8.19
+Game 762,Mobile,2018,Sports,Ubisoft,4.26,1.66,0.22,0.51,6.6499999999999995
+Game 763,Mobile,2021,Simulation,Indie,4.69,1.23,1.55,0.24,7.71
+Game 764,PS4,2011,RPG,Activision,0.43,1.57,1.62,0.85,4.47
+Game 765,Switch,2002,Simulation,Activision,1.93,2.69,1.54,0.73,6.890000000000001
+Game 766,PS4,2012,Puzzle,Activision,0.36,0.6,0.24,0.98,2.1799999999999997
+Game 767,Mobile,2017,Simulation,Nintendo,1.06,0.08,1.29,0.16,2.5900000000000003
+Game 768,Mobile,2007,Puzzle,Electronic Arts,1.15,2.59,1.67,0.23,5.640000000000001
+Game 769,PC,2020,Sports,Ubisoft,2.35,1.74,1.16,0.22,5.47
+Game 770,Mobile,2014,RPG,Electronic Arts,1.35,2.67,1.3,0.79,6.109999999999999
+Game 771,PC,2000,Simulation,Electronic Arts,0.51,1.79,0.92,0.2,3.42
+Game 772,Switch,2002,Action,Electronic Arts,0.85,2.43,1.06,0.08,4.42
+Game 773,PS4,2007,Adventure,Activision,0.74,1.29,0.08,1.0,3.1100000000000003
+Game 774,PS4,2003,Strategy,Square Enix,4.87,2.25,1.28,0.03,8.43
+Game 775,PC,2015,Action,Activision,3.8,2.74,0.17,0.84,7.55
+Game 776,PS4,2009,Sports,Activision,4.84,1.72,0.88,0.37,7.81
+Game 777,Mobile,2011,Strategy,Indie,2.2,0.55,0.59,0.84,4.18
+Game 778,Xbox One,2013,Adventure,Indie,1.4,0.81,1.1,0.56,3.87
+Game 779,PC,2013,Adventure,Electronic Arts,3.99,0.6,0.28,0.9,5.7700000000000005
+Game 780,PS4,2001,RPG,Activision,1.64,0.75,1.39,0.93,4.709999999999999
+Game 781,PC,2004,Strategy,Electronic Arts,1.5,0.93,1.59,0.02,4.04
+Game 782,PC,2004,RPG,Indie,1.17,1.67,0.34,0.08,3.26
+Game 783,Xbox One,2005,Action,Square Enix,0.66,1.77,0.22,0.26,2.91
+Game 784,Mobile,2012,Puzzle,Ubisoft,1.29,1.29,0.3,0.67,3.55
+Game 785,PC,2008,Puzzle,Electronic Arts,1.78,1.85,1.76,0.89,6.279999999999999
+Game 786,PS4,2021,Puzzle,Square Enix,3.37,0.25,1.06,0.47,5.1499999999999995
+Game 787,Switch,2014,Strategy,Ubisoft,0.32,0.27,0.94,0.61,2.14
+Game 788,PC,2013,Puzzle,Nintendo,1.06,0.52,0.22,0.2,2.0
+Game 789,PC,2006,Action,Electronic Arts,4.05,1.56,1.3,0.81,7.719999999999999
+Game 790,Xbox One,2019,RPG,Electronic Arts,0.74,0.65,1.74,0.97,4.1
+Game 791,Mobile,2001,Strategy,Nintendo,1.72,0.86,1.66,0.28,4.5200000000000005
+Game 792,Switch,2006,RPG,Nintendo,4.32,1.21,1.26,0.5,7.29
+Game 793,PS4,2005,Strategy,Electronic Arts,0.78,2.44,0.16,0.1,3.48
+Game 794,Switch,2016,RPG,Nintendo,0.42,0.05,0.23,0.56,1.26
+Game 795,PS4,2001,Adventure,Activision,2.43,1.95,0.11,0.51,5.0
+Game 796,Mobile,2002,RPG,Ubisoft,1.52,2.01,0.52,0.15,4.2
+Game 797,PS4,2004,Puzzle,Ubisoft,2.82,2.4,0.28,0.45,5.95
+Game 798,Xbox One,2004,Adventure,Ubisoft,4.02,2.8,0.53,0.34,7.6899999999999995
+Game 799,Xbox One,2000,RPG,Activision,0.69,0.07,0.78,0.53,2.0700000000000003
+Game 800,Xbox One,2007,Strategy,Nintendo,2.91,0.47,1.89,0.59,5.859999999999999
+Game 801,Xbox One,2011,Strategy,Square Enix,2.53,2.66,1.22,0.02,6.429999999999999
+Game 802,Switch,2003,Strategy,Nintendo,0.73,1.38,1.67,0.76,4.54
+Game 803,Mobile,2012,Sports,Electronic Arts,3.12,1.7,1.42,0.72,6.96
+Game 804,PS4,2014,Action,Indie,1.38,1.99,0.23,0.37,3.97
+Game 805,PS4,2010,Strategy,Ubisoft,2.44,2.04,1.47,0.06,6.01
+Game 806,Xbox One,2009,Adventure,Nintendo,0.42,2.8,0.56,0.76,4.54
+Game 807,Xbox One,2002,Strategy,Square Enix,2.3,2.99,1.28,0.96,7.53
+Game 808,PC,2021,Sports,Electronic Arts,1.54,2.16,0.69,0.25,4.640000000000001
+Game 809,Mobile,2013,Puzzle,Activision,4.11,0.87,2.0,0.33,7.3100000000000005
+Game 810,Switch,2015,Adventure,Activision,0.29,2.64,0.53,0.19,3.65
+Game 811,PS4,2009,Sports,Square Enix,2.1,0.16,0.57,0.58,3.41
+Game 812,PC,2009,Puzzle,Electronic Arts,2.3,0.7,1.86,0.16,5.0200000000000005
+Game 813,PC,2011,Simulation,Ubisoft,3.63,2.69,0.06,0.36,6.74
+Game 814,PS4,2008,Simulation,Nintendo,2.88,0.78,1.4,0.7,5.760000000000001
+Game 815,Switch,2000,Adventure,Electronic Arts,3.34,0.67,1.45,0.56,6.02
+Game 816,PC,2004,RPG,Activision,3.89,0.42,1.67,0.39,6.37
+Game 817,PC,2019,Action,Square Enix,4.31,2.58,1.95,0.43,9.27
+Game 818,Mobile,2007,Action,Square Enix,1.58,1.51,1.95,0.57,5.61
+Game 819,Switch,2010,Sports,Nintendo,2.69,2.03,0.14,0.02,4.879999999999999
+Game 820,PC,2011,Puzzle,Square Enix,4.2,0.72,1.65,0.09,6.66
+Game 821,Switch,2000,Action,Square Enix,4.95,2.28,1.3,0.88,9.410000000000002
+Game 822,PS4,2021,Puzzle,Electronic Arts,4.45,2.28,1.3,0.09,8.120000000000001
+Game 823,Xbox One,2019,Puzzle,Ubisoft,1.86,0.94,0.27,0.71,3.78
+Game 824,PC,2010,Sports,Nintendo,0.98,1.24,1.3,0.92,4.4399999999999995
+Game 825,Mobile,2004,Sports,Electronic Arts,2.45,0.64,1.97,0.28,5.340000000000001
+Game 826,PS4,2014,Sports,Ubisoft,3.71,2.93,1.82,0.38,8.840000000000002
+Game 827,Switch,2004,Action,Electronic Arts,2.47,1.94,0.88,0.57,5.86
+Game 828,PS4,2011,Simulation,Indie,2.42,2.8,0.09,0.88,6.1899999999999995
+Game 829,PC,2004,Sports,Electronic Arts,4.19,0.92,0.73,0.94,6.779999999999999
+Game 830,Switch,2016,Action,Square Enix,1.81,2.35,1.65,0.74,6.550000000000001
+Game 831,Xbox One,2016,Sports,Ubisoft,4.3,2.3,1.41,0.1,8.11
+Game 832,PS4,2011,Strategy,Nintendo,2.04,2.08,0.92,0.67,5.71
+Game 833,PC,2014,Puzzle,Nintendo,1.65,2.9,0.12,0.42,5.09
+Game 834,Mobile,2014,Sports,Ubisoft,2.28,1.19,0.86,0.48,4.8100000000000005
+Game 835,Switch,2005,Adventure,Square Enix,3.81,0.4,0.94,0.06,5.21
+Game 836,PS4,2011,Puzzle,Activision,0.64,2.02,1.86,0.2,4.720000000000001
+Game 837,PS4,2019,Puzzle,Electronic Arts,0.99,2.19,1.29,0.79,5.26
+Game 838,Xbox One,2017,Sports,Square Enix,4.76,1.73,0.63,0.46,7.58
+Game 839,Xbox One,2013,Simulation,Indie,0.89,0.63,1.06,0.31,2.89
+Game 840,Mobile,2001,RPG,Ubisoft,2.84,1.52,0.14,0.39,4.889999999999999
+Game 841,Mobile,2008,Simulation,Electronic Arts,2.9,0.94,1.95,0.86,6.65
+Game 842,PC,2004,Sports,Nintendo,2.45,1.29,0.73,0.75,5.220000000000001
+Game 843,PC,2019,Puzzle,Activision,3.23,1.94,0.96,0.28,6.41
+Game 844,Mobile,2000,Adventure,Indie,1.16,2.24,0.72,0.13,4.25
+Game 845,Mobile,2002,Puzzle,Nintendo,2.77,0.7,1.37,0.26,5.1
+Game 846,Switch,2005,Simulation,Ubisoft,1.87,1.22,1.33,0.92,5.34
+Game 847,Xbox One,2004,Adventure,Electronic Arts,3.31,0.81,1.43,0.59,6.14
+Game 848,PC,2020,Action,Ubisoft,0.71,0.6,0.54,0.54,2.39
+Game 849,Xbox One,2004,Strategy,Electronic Arts,2.86,2.35,0.64,0.6,6.449999999999999
+Game 850,Xbox One,2000,Puzzle,Square Enix,0.93,2.73,0.26,0.37,4.29
+Game 851,Mobile,2016,Sports,Activision,1.4,1.12,1.31,0.81,4.640000000000001
+Game 852,Switch,2018,Action,Square Enix,1.1,2.26,0.09,0.53,3.9799999999999995
+Game 853,PS4,2013,Strategy,Square Enix,0.92,2.69,1.2,0.13,4.9399999999999995
+Game 854,Switch,2011,Sports,Ubisoft,4.13,2.54,1.74,0.14,8.55
+Game 855,Switch,2009,RPG,Activision,1.44,0.56,1.78,0.54,4.32
+Game 856,Xbox One,2019,Sports,Electronic Arts,4.64,2.87,0.9,0.94,9.35
+Game 857,Switch,2020,Adventure,Electronic Arts,4.85,1.14,0.92,0.32,7.2299999999999995
+Game 858,PC,2017,Adventure,Indie,2.86,1.02,0.16,0.87,4.91
+Game 859,Xbox One,2010,RPG,Nintendo,0.72,0.2,1.34,0.77,3.03
+Game 860,PC,2001,Action,Indie,1.88,1.46,1.64,0.26,5.239999999999999
+Game 861,PS4,2017,Strategy,Indie,3.99,0.34,0.5,0.05,4.88
+Game 862,Xbox One,2006,Sports,Electronic Arts,1.84,0.75,0.85,0.11,3.55
+Game 863,PS4,2014,Adventure,Ubisoft,0.44,0.96,1.68,0.73,3.81
+Game 864,Xbox One,2010,Action,Square Enix,2.79,2.43,1.76,0.21,7.19
+Game 865,Mobile,2017,RPG,Square Enix,4.23,2.63,0.49,0.38,7.73
+Game 866,Switch,2011,Simulation,Square Enix,3.98,0.91,1.11,0.51,6.51
+Game 867,Mobile,2005,Puzzle,Activision,0.88,2.58,0.39,0.73,4.58
+Game 868,PS4,2019,Simulation,Electronic Arts,3.37,2.57,0.21,0.12,6.27
+Game 869,Switch,2012,Simulation,Ubisoft,1.11,2.3,1.82,0.41,5.640000000000001
+Game 870,Xbox One,2019,Adventure,Activision,1.1,0.45,1.64,0.49,3.6799999999999997
+Game 871,Switch,2015,RPG,Nintendo,4.37,2.07,1.52,0.55,8.51
+Game 872,PC,2017,Sports,Ubisoft,1.26,2.84,0.11,0.82,5.03
+Game 873,Switch,2009,Simulation,Indie,1.32,2.05,1.69,0.18,5.24
+Game 874,PC,2007,Simulation,Ubisoft,0.01,1.0,0.88,0.81,2.7
+Game 875,Switch,2017,Strategy,Ubisoft,4.35,1.51,0.69,0.7,7.249999999999999
+Game 876,PC,2020,Adventure,Square Enix,3.97,1.94,1.1,0.56,7.57
+Game 877,PS4,2000,Adventure,Ubisoft,3.14,1.54,0.19,0.7,5.57
+Game 878,Mobile,2007,Sports,Indie,3.75,0.37,1.52,0.42,6.0600000000000005
+Game 879,Xbox One,2005,Puzzle,Indie,0.77,0.94,1.17,0.15,3.03
+Game 880,Switch,2004,Action,Electronic Arts,2.3,2.41,0.38,0.67,5.76
+Game 881,Mobile,2014,Strategy,Ubisoft,1.76,2.59,0.38,0.53,5.26
+Game 882,Xbox One,2021,Adventure,Square Enix,0.48,0.42,0.38,0.64,1.92
+Game 883,Xbox One,2014,Strategy,Ubisoft,2.44,2.86,0.12,0.34,5.76
+Game 884,PC,2001,Adventure,Nintendo,4.6,0.99,1.18,0.91,7.68
+Game 885,PS4,2000,Strategy,Nintendo,0.21,1.99,1.68,0.59,4.47
+Game 886,PS4,2010,RPG,Square Enix,1.46,2.26,0.04,0.09,3.8499999999999996
+Game 887,Mobile,2009,Simulation,Electronic Arts,1.05,2.44,0.11,0.46,4.0600000000000005
+Game 888,PS4,2017,Adventure,Electronic Arts,1.2,2.84,1.15,0.76,5.949999999999999
+Game 889,Switch,2017,Strategy,Indie,4.54,0.95,1.64,0.8,7.93
+Game 890,PS4,2016,Action,Indie,2.35,2.58,0.66,0.5,6.09
+Game 891,Mobile,2007,RPG,Activision,2.34,0.4,0.71,0.9,4.35
+Game 892,PS4,2014,RPG,Square Enix,3.81,2.12,1.2,0.27,7.4
+Game 893,Switch,2007,Action,Ubisoft,0.78,2.23,0.56,0.42,3.9899999999999998
+Game 894,PC,2016,Strategy,Square Enix,2.44,2.04,0.06,0.9,5.44
+Game 895,Mobile,2011,Sports,Activision,2.16,0.76,1.47,0.9,5.29
+Game 896,PC,2007,Action,Indie,2.99,2.62,1.26,0.69,7.5600000000000005
+Game 897,PC,2013,Strategy,Square Enix,5.0,0.51,1.17,0.86,7.54
+Game 898,PC,2003,Action,Square Enix,3.85,0.17,1.49,0.1,5.61
+Game 899,Xbox One,2000,Action,Indie,2.0,2.16,1.35,0.87,6.38
+Game 900,Xbox One,2000,Adventure,Activision,4.14,1.43,0.42,0.33,6.319999999999999
+Game 901,PC,2018,Strategy,Indie,0.86,2.55,0.71,0.19,4.31
+Game 902,Mobile,2015,Sports,Electronic Arts,0.16,1.16,0.26,0.25,1.8299999999999998
+Game 903,Switch,2013,Simulation,Ubisoft,1.03,0.51,0.27,0.42,2.23
+Game 904,Switch,2020,Adventure,Indie,1.71,2.51,1.36,0.26,5.84
+Game 905,PS4,2015,Action,Activision,2.56,1.65,1.72,0.33,6.26
+Game 906,Mobile,2004,Simulation,Nintendo,3.08,0.58,1.93,0.14,5.7299999999999995
+Game 907,Xbox One,2008,Puzzle,Electronic Arts,4.55,2.16,1.26,0.3,8.27
+Game 908,PC,2001,Simulation,Nintendo,2.55,1.54,0.38,0.58,5.05
+Game 909,PS4,2017,Action,Indie,2.51,1.82,0.22,0.45,5.0
+Game 910,Switch,2005,Action,Electronic Arts,0.26,1.39,1.63,0.35,3.63
+Game 911,Xbox One,2008,Strategy,Ubisoft,0.18,2.49,1.16,0.75,4.58
+Game 912,Xbox One,2000,Strategy,Indie,2.76,2.49,1.24,0.89,7.38
+Game 913,PC,2008,Adventure,Ubisoft,2.2,2.13,1.57,0.76,6.66
+Game 914,Switch,2015,Sports,Square Enix,4.2,0.33,1.41,0.34,6.28
+Game 915,Mobile,2012,Adventure,Nintendo,0.81,2.52,1.67,0.75,5.75
+Game 916,Xbox One,2008,RPG,Electronic Arts,0.13,2.02,0.12,0.16,2.43
+Game 917,PC,2020,Action,Ubisoft,2.25,2.09,1.5,0.14,5.9799999999999995
+Game 918,Mobile,2012,Simulation,Activision,1.2,1.1,1.7,0.35,4.35
+Game 919,Switch,2008,Puzzle,Ubisoft,0.26,2.64,0.58,0.81,4.290000000000001
+Game 920,Xbox One,2010,Action,Activision,3.63,2.18,1.28,0.25,7.340000000000001
+Game 921,Mobile,2003,Action,Indie,0.57,0.35,0.64,0.07,1.6300000000000001
+Game 922,Mobile,2001,Adventure,Electronic Arts,3.05,1.23,1.92,0.14,6.339999999999999
+Game 923,Mobile,2005,Puzzle,Ubisoft,1.41,2.66,0.08,0.86,5.010000000000001
+Game 924,Xbox One,2013,Puzzle,Ubisoft,0.88,0.15,1.16,0.64,2.83
+Game 925,Xbox One,2003,Puzzle,Electronic Arts,1.9,2.88,0.34,0.26,5.379999999999999
+Game 926,PS4,2005,Adventure,Ubisoft,4.01,2.04,1.43,0.56,8.04
+Game 927,Switch,2018,Action,Activision,1.97,1.9,0.36,0.53,4.760000000000001
+Game 928,PC,2005,Adventure,Ubisoft,3.76,0.82,0.48,0.66,5.720000000000001
+Game 929,Mobile,2001,Strategy,Nintendo,0.64,0.75,0.99,0.24,2.62
+Game 930,PS4,2017,Strategy,Indie,3.87,2.83,1.83,0.87,9.4
+Game 931,PC,2012,Adventure,Square Enix,1.19,0.9,0.43,0.32,2.84
+Game 932,PS4,2008,Puzzle,Activision,3.39,2.33,0.3,0.7,6.720000000000001
+Game 933,Xbox One,2018,Action,Nintendo,2.83,1.19,1.52,0.03,5.569999999999999
+Game 934,Mobile,2012,Adventure,Indie,4.65,0.43,1.01,0.38,6.47
+Game 935,PC,2010,Adventure,Electronic Arts,1.94,0.04,1.82,0.36,4.16
+Game 936,PC,2000,Adventure,Activision,0.34,1.64,0.3,0.55,2.83
+Game 937,PC,2021,RPG,Square Enix,0.11,2.93,1.3,0.08,4.42
+Game 938,PC,2006,Strategy,Indie,4.14,1.11,0.47,0.79,6.51
+Game 939,PC,2020,Simulation,Square Enix,2.63,1.08,0.32,0.23,4.260000000000001
+Game 940,PS4,2014,Puzzle,Electronic Arts,3.88,1.04,1.37,0.68,6.97
+Game 941,Mobile,2000,Sports,Electronic Arts,1.18,1.57,1.19,0.81,4.75
+Game 942,Xbox One,2011,Simulation,Activision,1.73,1.33,1.51,0.57,5.140000000000001
+Game 943,Xbox One,2006,Puzzle,Ubisoft,0.16,2.64,0.63,0.74,4.17
+Game 944,Xbox One,2014,Sports,Electronic Arts,4.81,1.52,0.9,0.67,7.9
+Game 945,Xbox One,2020,RPG,Indie,3.34,1.53,0.82,0.36,6.050000000000001
+Game 946,PS4,2018,Adventure,Ubisoft,4.67,0.42,1.97,0.81,7.869999999999999
+Game 947,Switch,2000,RPG,Nintendo,1.33,2.95,0.59,0.3,5.17
+Game 948,Mobile,2016,RPG,Square Enix,3.06,0.76,0.6,0.58,5.0
+Game 949,PC,2016,Simulation,Ubisoft,3.4,0.23,0.72,0.75,5.1
+Game 950,Switch,2002,Action,Square Enix,1.59,1.99,1.13,0.39,5.1
+Game 951,Xbox One,2011,Simulation,Ubisoft,4.24,1.79,0.51,0.31,6.85
+Game 952,Switch,2005,Strategy,Nintendo,4.74,1.25,1.83,0.46,8.280000000000001
+Game 953,Mobile,2010,Sports,Electronic Arts,4.43,1.27,0.54,0.82,7.06
+Game 954,PC,2002,Adventure,Nintendo,3.7,2.36,1.79,0.93,8.780000000000001
+Game 955,PC,2007,Simulation,Electronic Arts,1.39,0.6,0.22,0.55,2.76
+Game 956,Mobile,2013,Sports,Electronic Arts,1.42,2.46,1.32,0.66,5.86
+Game 957,Mobile,2013,Puzzle,Square Enix,4.82,1.95,1.81,0.9,9.48
+Game 958,Xbox One,2009,Sports,Indie,0.06,1.26,0.35,0.11,1.78
+Game 959,PC,2001,Puzzle,Nintendo,3.58,1.38,1.94,0.24,7.140000000000001
+Game 960,Switch,2013,Simulation,Ubisoft,3.53,0.78,0.91,0.71,5.93
+Game 961,PS4,2008,Strategy,Nintendo,3.12,2.26,1.89,0.83,8.1
+Game 962,PS4,2002,Simulation,Square Enix,4.95,1.54,1.36,0.86,8.71
+Game 963,Mobile,2020,Puzzle,Electronic Arts,1.57,0.97,0.61,0.42,3.57
+Game 964,Xbox One,2007,Sports,Square Enix,1.71,1.79,0.38,0.1,3.98
+Game 965,PS4,2015,Sports,Activision,0.4,2.99,0.61,0.44,4.44
+Game 966,PC,2001,Puzzle,Activision,2.22,1.31,0.2,0.24,3.9700000000000006
+Game 967,Mobile,2005,RPG,Ubisoft,1.31,2.76,0.3,0.3,4.67
+Game 968,Switch,2020,Strategy,Square Enix,1.72,1.04,0.22,0.77,3.75
+Game 969,Mobile,2011,Action,Ubisoft,4.17,0.17,0.85,0.08,5.27
+Game 970,Switch,2004,Adventure,Ubisoft,4.68,0.62,1.59,0.83,7.72
+Game 971,Mobile,2001,Sports,Activision,0.94,1.26,0.29,0.43,2.9200000000000004
+Game 972,Mobile,2015,Adventure,Ubisoft,1.87,0.67,0.27,0.6,3.41
+Game 973,Mobile,2004,Action,Activision,4.64,0.01,1.29,0.1,6.039999999999999
+Game 974,Switch,2014,Simulation,Electronic Arts,0.32,2.75,0.4,0.34,3.8099999999999996
+Game 975,Switch,2011,Adventure,Square Enix,0.47,2.53,0.2,0.1,3.3000000000000003
+Game 976,Mobile,2003,Action,Ubisoft,0.82,2.23,0.34,0.96,4.35
+Game 977,PS4,2014,Puzzle,Activision,2.98,0.51,1.85,0.81,6.15
+Game 978,Xbox One,2010,RPG,Nintendo,0.76,0.37,1.64,0.47,3.2399999999999993
+Game 979,Xbox One,2015,Sports,Ubisoft,4.84,0.21,0.71,0.23,5.99
+Game 980,Xbox One,2005,Action,Indie,2.24,2.17,1.32,0.93,6.66
+Game 981,Switch,2013,Adventure,Electronic Arts,2.51,2.79,1.08,0.35,6.7299999999999995
+Game 982,Switch,2017,Sports,Electronic Arts,1.24,1.3,1.36,0.17,4.07
+Game 983,PS4,2011,RPG,Nintendo,2.36,0.37,1.37,0.57,4.67
+Game 984,Xbox One,2010,Puzzle,Activision,3.31,1.54,1.26,0.94,7.049999999999999
+Game 985,Xbox One,2012,Simulation,Ubisoft,3.76,1.05,0.54,0.01,5.359999999999999
+Game 986,Mobile,2020,Sports,Activision,3.77,1.13,0.09,0.25,5.24
+Game 987,Switch,2010,Simulation,Electronic Arts,2.89,1.87,0.92,0.94,6.619999999999999
+Game 988,Xbox One,2015,Action,Activision,4.52,2.16,1.78,0.18,8.639999999999999
+Game 989,PS4,2014,RPG,Electronic Arts,4.09,0.34,1.14,0.12,5.6899999999999995
+Game 990,PS4,2020,Adventure,Activision,3.79,0.12,1.67,0.57,6.15
+Game 991,Xbox One,2014,RPG,Nintendo,0.29,2.98,1.98,0.86,6.11
+Game 992,Switch,2003,RPG,Square Enix,0.04,0.71,0.34,0.48,1.57
+Game 993,PS4,2010,Strategy,Nintendo,1.07,0.17,1.39,0.99,3.62
+Game 994,Mobile,2018,RPG,Nintendo,3.32,0.58,1.35,0.68,5.93
+Game 995,PS4,2014,RPG,Square Enix,2.06,0.13,1.96,0.08,4.23
+Game 996,PC,2003,Sports,Square Enix,2.02,1.18,1.97,0.99,6.16
+Game 997,PC,2020,Adventure,Ubisoft,4.42,2.41,1.38,0.41,8.620000000000001
+Game 998,Switch,2012,Sports,Ubisoft,4.48,1.03,0.49,0.29,6.290000000000001
+Game 999,Xbox One,2021,Sports,Nintendo,4.55,1.34,1.6,0.56,8.05
